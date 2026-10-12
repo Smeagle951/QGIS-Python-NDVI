@@ -1,0 +1,15 @@
+Round-trip FortSmart — isoxml_v4
+Origem: E:\GS3_2630
+Export: C:\Users\fortu\Desktop\QGIS_Python_NDVI\data\output\roundtrip_isoxml\TASKDATA
+Talhoes origem/reimport: 22 / 22
+Resultado: OK
+
+Contagens por tipo:
+  = Bordaduras: 3 -> 3
+  ! Curvas AB: 13 -> 15
+  ! Curvas adaptadas: 2 -> 0
+  = Limites: 13 -> 13
+  = Limites internos: 2 -> 2
+  = Linhas AB: 30 -> 30
+  = Trabalhos: 1 -> 1
+- Tipos individuais remapeados, mas grupos (limite/AB/curva) conferem.

@@ -1,0 +1,15 @@
+Round-trip FortSmart — john_deere_gen4
+Origem: E:\GS3_2630
+Export: C:\Users\fortu\Desktop\QGIS_Python_NDVI\data\output\roundtrip_gen4\Gen4
+Talhoes origem/reimport: 22 / 22
+Resultado: OK
+
+Contagens por tipo:
+  ! Bordaduras: 3 -> 0
+  ! Curvas AB: 13 -> 19
+  ! Curvas adaptadas: 2 -> 0
+  ! Limites: 13 -> 15
+  ! Limites internos: 2 -> 0
+  = Linhas AB: 30 -> 30
+  ! Trabalhos: 1 -> 0
+- Tipos individuais remapeados, mas grupos (limite/AB/curva) conferem.

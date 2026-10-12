@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfld:SpatialCatalog xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:rcdscfld="urn:schemas-johndeere-com:RCD:SpatialCatalog:Field">
+  <rcdscfld:FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="3" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </rcdscfld:FileSchemaVersion>
+  <rcdscfld:SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{7d98c6e6-44e3-4f69-b09c-bb94ceb56ff5}" />
+  <rcdscfld:SpatialItems eridFieldRef="{4A3566EE-BF00-442E-B333-2BAF7898D8E9}" />
+</rcdscfld:SpatialCatalog>

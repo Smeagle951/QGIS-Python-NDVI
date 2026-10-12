@@ -1,0 +1,32 @@
+{
+  "profile_id": "isoxml_v4",
+  "source_path": "E:\\GS3_2630",
+  "export_path": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\output\\roundtrip_isoxml\\TASKDATA",
+  "source_fields": 22,
+  "reimport_fields": 22,
+  "source_counts": {
+    "curva_ab": 13,
+    "linha_ab": 30,
+    "bordadura": 3,
+    "trabalho": 1,
+    "limite_interno": 2,
+    "curva_adaptada": 2,
+    "limite": 13
+  },
+  "reimport_counts": {
+    "curva_ab": 15,
+    "linha_ab": 30,
+    "limite_interno": 2,
+    "bordadura": 3,
+    "trabalho": 1,
+    "limite": 13
+  },
+  "missing_fields": [],
+  "extra_fields": [],
+  "kind_deltas": {},
+  "ok": true,
+  "notes": [
+    "Tipos individuais remapeados, mas grupos (limite/AB/curva) conferem."
+  ],
+  "created_at": "2026-08-27T00:54:26Z"
+}

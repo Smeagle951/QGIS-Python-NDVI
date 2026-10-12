@@ -1,0 +1,1838 @@
+[
+  {
+    "erid": "25323f27-d13c-4779-8ea0-e0c47823e16c",
+    "tag": "Boundary",
+    "name": "",
+    "file_name": "Boundary25323f27-d13c-4779-8ea0-e0c47823e16c",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 195
+  },
+  {
+    "erid": "83b51fed-812d-4837-9ac1-7d6ed7645c22",
+    "tag": "Boundary",
+    "name": "",
+    "file_name": "Boundary83b51fed-812d-4837-9ac1-7d6ed7645c22",
+    "field_erid": "125fbf52-03e1-4119-90fc-b940b421b4ca",
+    "mode": "absoluto",
+    "points": 147
+  },
+  {
+    "erid": "ac769b23-2329-4714-b549-212dd4ee4020",
+    "tag": "Boundary",
+    "name": "",
+    "file_name": "Boundaryac769b23-2329-4714-b549-212dd4ee4020",
+    "field_erid": "81119ce6-bcf5-45aa-833f-77046e3d0dea",
+    "mode": "absoluto",
+    "points": 76
+  },
+  {
+    "erid": "fddb1967-8007-43fc-a77a-df006e5436e9",
+    "tag": "Boundary",
+    "name": "",
+    "file_name": "Boundaryfddb1967-8007-43fc-a77a-df006e5436e9",
+    "field_erid": "eb7fb6a4-8a63-45f2-a15a-73d46ca78c24",
+    "mode": "absoluto",
+    "points": 174
+  },
+  {
+    "erid": "061ab54c-9b03-47b7-858e-374c63551bf1",
+    "tag": "CurvedTrackLine",
+    "name": "Limie base",
+    "file_name": "CurveTrack061ab54c-9b03-47b7-858e-374c63551bf1",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "delta",
+    "points": 339
+  },
+  {
+    "erid": "2ae6cf90-541d-4083-86b9-ec7a435a53d2",
+    "tag": "CurvedTrackLine",
+    "name": "Limite base 2",
+    "file_name": "CurveTrack2ae6cf90-541d-4083-86b9-ec7a435a53d2",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "delta",
+    "points": 75
+  },
+  {
+    "erid": "33856872-b7b7-4b3c-a5fa-06e219744826",
+    "tag": "CurvedTrackLine",
+    "name": "limite base",
+    "file_name": "CurveTrack33856872-b7b7-4b3c-a5fa-06e219744826",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "delta",
+    "points": 35
+  },
+  {
+    "erid": "4302ec50-e031-437f-87bf-a49d9a347bd3",
+    "tag": "CurvedTrackLine",
+    "name": "limite basa",
+    "file_name": "CurveTrack4302ec50-e031-437f-87bf-a49d9a347bd3",
+    "field_erid": "e70ad97e-c7b2-4e47-b4ec-165ca1011ee1",
+    "mode": "delta",
+    "points": 448
+  },
+  {
+    "erid": "51f4a9c2-f834-43e8-94b8-c6f3659af393",
+    "tag": "CurvedTrackLine",
+    "name": "Limite base",
+    "file_name": "CurveTrack51f4a9c2-f834-43e8-94b8-c6f3659af393",
+    "field_erid": "6c7e42e6-eebb-4ab5-801f-4bac0ab68ec5",
+    "mode": "delta",
+    "points": 413
+  },
+  {
+    "erid": "52e8cd49-8f24-4f9c-8e34-ed27d0bfdd59",
+    "tag": "CurvedTrackLine",
+    "name": "Limite Base",
+    "file_name": "CurveTrack52e8cd49-8f24-4f9c-8e34-ed27d0bfdd59",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "delta",
+    "points": 417
+  },
+  {
+    "erid": "63be6571-bdf5-4594-b323-d32edf15152c",
+    "tag": "CurvedTrackLine",
+    "name": "Limite base",
+    "file_name": "CurveTrack63be6571-bdf5-4594-b323-d32edf15152c",
+    "field_erid": "fc24361d-b7f3-4ece-aba6-1400f748c573",
+    "mode": "delta",
+    "points": 113
+  },
+  {
+    "erid": "675f284d-f577-4ae9-9887-f73a4df7e42b",
+    "tag": "CurvedTrackLine",
+    "name": "Pista de orientação",
+    "file_name": "CurveTrack675f284d-f577-4ae9-9887-f73a4df7e42b",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "delta",
+    "points": 218
+  },
+  {
+    "erid": "6a1d44e1-6fd6-48ce-a5c4-f5071b7084e3",
+    "tag": "CurvedTrackLine",
+    "name": "Limite",
+    "file_name": "CurveTrack6a1d44e1-6fd6-48ce-a5c4-f5071b7084e3",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "delta",
+    "points": 58
+  },
+  {
+    "erid": "95121a3c-ec36-4ae0-9fbb-941beaae9ff5",
+    "tag": "CurvedTrackLine",
+    "name": "Limite base 1",
+    "file_name": "CurveTrack95121a3c-ec36-4ae0-9fbb-941beaae9ff5",
+    "field_erid": "b53a2e23-184f-48b2-8ec2-26f89d1111d5",
+    "mode": "delta",
+    "points": 128
+  },
+  {
+    "erid": "dfda4cf7-7ac1-4dff-ad5b-1a0b243e4d6c",
+    "tag": "CurvedTrackLine",
+    "name": "Limite Base 1",
+    "file_name": "CurveTrackdfda4cf7-7ac1-4dff-ad5b-1a0b243e4d6c",
+    "field_erid": "827bd9aa-2db5-4665-a3e7-e6087e3f79f8",
+    "mode": "delta",
+    "points": 435
+  },
+  {
+    "erid": "01e135f3-2109-4df7-8a02-7f438fac0380",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag01e135f3-2109-4df7-8a02-7f438fac0380",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 23
+  },
+  {
+    "erid": "01e3aacf-552b-4a88-89d2-a12c87fa2239",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag01e3aacf-552b-4a88-89d2-a12c87fa2239",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 87
+  },
+  {
+    "erid": "025fa3fd-8453-4fda-9076-9e44398704f7",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag025fa3fd-8453-4fda-9076-9e44398704f7",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 2
+  },
+  {
+    "erid": "026664a7-741a-4ca2-851c-4d40bcc45d94",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag026664a7-741a-4ca2-851c-4d40bcc45d94",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 162
+  },
+  {
+    "erid": "03a3554b-1ff9-439d-89a0-2dfa9592450d",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag03a3554b-1ff9-439d-89a0-2dfa9592450d",
+    "field_erid": "1594d207-0fcc-427d-889e-49cfedf1bbfb",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "0583836e-c28f-4e60-ad63-71ee156ae464",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0583836e-c28f-4e60-ad63-71ee156ae464",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 35
+  },
+  {
+    "erid": "05a43743-d5eb-4094-bcf3-c19395a1828e",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag05a43743-d5eb-4094-bcf3-c19395a1828e",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "06ffeb06-47e1-4a62-abf8-e3042ded4807",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag06ffeb06-47e1-4a62-abf8-e3042ded4807",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "07a18083-014f-4fbc-9839-f70c827f2aa5",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag07a18083-014f-4fbc-9839-f70c827f2aa5",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 3
+  },
+  {
+    "erid": "0b7ebf1b-b429-4aa0-ae22-c7399e660e96",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0b7ebf1b-b429-4aa0-ae22-c7399e660e96",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "0c821bc7-f609-4553-bcf3-976d92c08894",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0c821bc7-f609-4553-bcf3-976d92c08894",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "0ccf53d2-ebdb-4432-adc5-5b24190f5237",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0ccf53d2-ebdb-4432-adc5-5b24190f5237",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 57
+  },
+  {
+    "erid": "0d192ff8-1b80-42f1-b81e-fdb478da1b4a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0d192ff8-1b80-42f1-b81e-fdb478da1b4a",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "0e1c3a40-29e6-4010-b5ea-ca8c0e6fec48",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0e1c3a40-29e6-4010-b5ea-ca8c0e6fec48",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "0f756805-04cc-4568-bd63-f6ef7b0074d6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag0f756805-04cc-4568-bd63-f6ef7b0074d6",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "105e2ccf-1a71-4dc6-9027-accad90a8d11",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag105e2ccf-1a71-4dc6-9027-accad90a8d11",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "11d1f7b6-0738-42ac-8152-f91f316ca9d8",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag11d1f7b6-0738-42ac-8152-f91f316ca9d8",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "11eb2594-669f-43ed-9504-03853b49c5fe",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag11eb2594-669f-43ed-9504-03853b49c5fe",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 9
+  },
+  {
+    "erid": "12177f23-fea5-45bc-8f4f-3e38d758dfd5",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag12177f23-fea5-45bc-8f4f-3e38d758dfd5",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "12bd5c0e-c460-4371-b239-f812926a7ac8",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag12bd5c0e-c460-4371-b239-f812926a7ac8",
+    "field_erid": "fc24361d-b7f3-4ece-aba6-1400f748c573",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "13d72f7f-bbf4-47b1-977e-82146a55d658",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag13d72f7f-bbf4-47b1-977e-82146a55d658",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 18
+  },
+  {
+    "erid": "15a4920f-b9de-43bf-9041-3880e0e73573",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag15a4920f-b9de-43bf-9041-3880e0e73573",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 10
+  },
+  {
+    "erid": "17098e6d-4da9-429a-99d5-8ff87f67b066",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag17098e6d-4da9-429a-99d5-8ff87f67b066",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "19095365-ce45-4ca2-a6e8-4899dfd1eee6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag19095365-ce45-4ca2-a6e8-4899dfd1eee6",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "194eb4a1-cf21-40c9-959e-b0ea967a61e3",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag194eb4a1-cf21-40c9-959e-b0ea967a61e3",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "1a4e30db-83f1-40f9-b29e-7925ad0e6ce6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag1a4e30db-83f1-40f9-b29e-7925ad0e6ce6",
+    "field_erid": "b53a2e23-184f-48b2-8ec2-26f89d1111d5",
+    "mode": "absoluto",
+    "points": 17
+  },
+  {
+    "erid": "1b52062e-ef0d-4f27-b08a-3a4a76ab2a90",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag1b52062e-ef0d-4f27-b08a-3a4a76ab2a90",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "1c245837-8de7-4f00-b20f-a13851beb856",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag1c245837-8de7-4f00-b20f-a13851beb856",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 2
+  },
+  {
+    "erid": "1dfc0ac0-bf46-403c-8cc9-25b064710660",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag1dfc0ac0-bf46-403c-8cc9-25b064710660",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 33
+  },
+  {
+    "erid": "218052bd-4066-47d5-a405-89efb8680932",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag218052bd-4066-47d5-a405-89efb8680932",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "21e0cece-03a8-4af0-b757-6f87f1ae8f04",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag21e0cece-03a8-4af0-b757-6f87f1ae8f04",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 16
+  },
+  {
+    "erid": "241e473d-1bf8-4f95-8ba2-37f0c62b64d2",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag241e473d-1bf8-4f95-8ba2-37f0c62b64d2",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 18
+  },
+  {
+    "erid": "25404576-4b21-4568-8b90-30501d17856c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag25404576-4b21-4568-8b90-30501d17856c",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 2
+  },
+  {
+    "erid": "2586bf0b-efbe-49c6-aae1-364afd352640",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag2586bf0b-efbe-49c6-aae1-364afd352640",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 27
+  },
+  {
+    "erid": "269a829f-abec-48f9-9ea5-1ab9d84be77b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag269a829f-abec-48f9-9ea5-1ab9d84be77b",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "280c1430-76c5-475d-b303-b63c63159f31",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag280c1430-76c5-475d-b303-b63c63159f31",
+    "field_erid": "cf5de1b1-f15f-456a-bab5-b8fe83e1616c",
+    "mode": "absoluto",
+    "points": 180
+  },
+  {
+    "erid": "2977af37-6592-4b7f-98c7-f29656b62b79",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag2977af37-6592-4b7f-98c7-f29656b62b79",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "2a0ab734-aa8e-41cc-bdbf-59db9530dcda",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag2a0ab734-aa8e-41cc-bdbf-59db9530dcda",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "2a497172-5253-4d2c-a848-151c779ee5c1",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag2a497172-5253-4d2c-a848-151c779ee5c1",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "2ff8258b-9785-4814-af0c-6938ec53fe9e",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag2ff8258b-9785-4814-af0c-6938ec53fe9e",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "30028e0a-1071-442b-82e1-1374cb94883d",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag30028e0a-1071-442b-82e1-1374cb94883d",
+    "field_erid": "6c7e42e6-eebb-4ab5-801f-4bac0ab68ec5",
+    "mode": "absoluto",
+    "points": 38
+  },
+  {
+    "erid": "31092a4c-682a-47a2-adf0-1f35b44019f1",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag31092a4c-682a-47a2-adf0-1f35b44019f1",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "absoluto",
+    "points": 10
+  },
+  {
+    "erid": "314ea5e3-c6d0-4a75-85d0-0c3e8c03045a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag314ea5e3-c6d0-4a75-85d0-0c3e8c03045a",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 9
+  },
+  {
+    "erid": "345bb8bc-ef7d-410f-948c-7e3088e11099",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag345bb8bc-ef7d-410f-948c-7e3088e11099",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 23
+  },
+  {
+    "erid": "346de0a5-df69-4578-9344-a2d136b4b0d2",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag346de0a5-df69-4578-9344-a2d136b4b0d2",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "351f15c8-d3f8-4955-b217-c901554faf08",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag351f15c8-d3f8-4955-b217-c901554faf08",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "3564af5c-38fb-47c7-9d54-ef18b549c13f",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag3564af5c-38fb-47c7-9d54-ef18b549c13f",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 3
+  },
+  {
+    "erid": "364f2a7f-00f4-4460-b65c-d177425fd527",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag364f2a7f-00f4-4460-b65c-d177425fd527",
+    "field_erid": "1594d207-0fcc-427d-889e-49cfedf1bbfb",
+    "mode": "absoluto",
+    "points": 168
+  },
+  {
+    "erid": "370f475b-e855-4290-83aa-23c2e4cc45bb",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag370f475b-e855-4290-83aa-23c2e4cc45bb",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "387a3962-a08a-4756-8d55-31f874f55d11",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag387a3962-a08a-4756-8d55-31f874f55d11",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "395267f1-bda7-4850-9d6e-082a6ba8322a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag395267f1-bda7-4850-9d6e-082a6ba8322a",
+    "field_erid": "cf5de1b1-f15f-456a-bab5-b8fe83e1616c",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "39c7d86f-4070-4f35-ad18-2f8def020891",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag39c7d86f-4070-4f35-ad18-2f8def020891",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 42
+  },
+  {
+    "erid": "3a0a72fe-bdbf-41a0-a7b1-fb0ff822ad81",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag3a0a72fe-bdbf-41a0-a7b1-fb0ff822ad81",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 31
+  },
+  {
+    "erid": "3cb55600-7755-43d1-ac82-b3f4d4a27355",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag3cb55600-7755-43d1-ac82-b3f4d4a27355",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 3
+  },
+  {
+    "erid": "3cc1ca08-8c28-4b91-bbb6-5a166399b080",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag3cc1ca08-8c28-4b91-bbb6-5a166399b080",
+    "field_erid": "eb7fb6a4-8a63-45f2-a15a-73d46ca78c24",
+    "mode": "absoluto",
+    "points": 13
+  },
+  {
+    "erid": "3d41ffd0-0b5c-4084-a702-8fa23ade6ac2",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag3d41ffd0-0b5c-4084-a702-8fa23ade6ac2",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "3e741308-1e86-49b0-80d0-c78d21af9d6c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag3e741308-1e86-49b0-80d0-c78d21af9d6c",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "409bdc35-5fd1-45b5-9c60-92205bb11cb1",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag409bdc35-5fd1-45b5-9c60-92205bb11cb1",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 13
+  },
+  {
+    "erid": "423443e0-2528-4eeb-95d1-5770e44cb05c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag423443e0-2528-4eeb-95d1-5770e44cb05c",
+    "field_erid": "827bd9aa-2db5-4665-a3e7-e6087e3f79f8",
+    "mode": "absoluto",
+    "points": 20
+  },
+  {
+    "erid": "449b5f90-4a45-4326-831e-77a842be34ea",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag449b5f90-4a45-4326-831e-77a842be34ea",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 21
+  },
+  {
+    "erid": "44c909f5-997a-42fc-a30f-bbbf274b07fb",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag44c909f5-997a-42fc-a30f-bbbf274b07fb",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 20
+  },
+  {
+    "erid": "45195ad6-a839-40a5-97d6-2ee879ee092d",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag45195ad6-a839-40a5-97d6-2ee879ee092d",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 3
+  },
+  {
+    "erid": "48cea4ad-1690-43dc-ad42-dddcbb902cd5",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag48cea4ad-1690-43dc-ad42-dddcbb902cd5",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "48fe37f6-602a-4afd-ade9-bbabb971d260",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag48fe37f6-602a-4afd-ade9-bbabb971d260",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "49dbe67f-bedc-4452-a952-a2511e454e4d",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag49dbe67f-bedc-4452-a952-a2511e454e4d",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 3
+  },
+  {
+    "erid": "4b061420-d1d2-48c9-ad23-5d6662d0b404",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag4b061420-d1d2-48c9-ad23-5d6662d0b404",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 9
+  },
+  {
+    "erid": "4be06ddf-86c5-4edf-8a9f-fc14c9d15655",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag4be06ddf-86c5-4edf-8a9f-fc14c9d15655",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "4c215b11-9410-40d7-96df-40b607d030f6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag4c215b11-9410-40d7-96df-40b607d030f6",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "absoluto",
+    "points": 51
+  },
+  {
+    "erid": "4c6c9065-ca75-4dda-9f32-5978018dbe28",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag4c6c9065-ca75-4dda-9f32-5978018dbe28",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "4db13180-ec28-4603-a9c2-0af904132563",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag4db13180-ec28-4603-a9c2-0af904132563",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "4e37725e-d13e-44d1-add7-1967ab0221ca",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag4e37725e-d13e-44d1-add7-1967ab0221ca",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 13
+  },
+  {
+    "erid": "500e7058-d556-4f4a-a310-2b8c0398b41b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag500e7058-d556-4f4a-a310-2b8c0398b41b",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "51db67a1-8bdd-422c-a163-8f3593b57714",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag51db67a1-8bdd-422c-a163-8f3593b57714",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "55ceede2-0240-4987-9f26-15329b9714ce",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag55ceede2-0240-4987-9f26-15329b9714ce",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "568df776-4c78-4dc9-9e92-956872d5d078",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag568df776-4c78-4dc9-9e92-956872d5d078",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 30
+  },
+  {
+    "erid": "5c75219f-43c4-495f-980b-f3b478255828",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag5c75219f-43c4-495f-980b-f3b478255828",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "5d6841bf-6d04-44c9-95a9-3abb520deb9b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag5d6841bf-6d04-44c9-95a9-3abb520deb9b",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "5ffd4ef4-819e-4364-a486-11c468bb94b7",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag5ffd4ef4-819e-4364-a486-11c468bb94b7",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "60a7e46d-6791-458a-a535-8cfef856f3d4",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag60a7e46d-6791-458a-a535-8cfef856f3d4",
+    "field_erid": "b53a2e23-184f-48b2-8ec2-26f89d1111d5",
+    "mode": "absoluto",
+    "points": 73
+  },
+  {
+    "erid": "6323d254-d997-4209-b7c0-e637a5b5923f",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag6323d254-d997-4209-b7c0-e637a5b5923f",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "645e3f93-1e24-4f02-abc4-2d0b962dc20b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag645e3f93-1e24-4f02-abc4-2d0b962dc20b",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "659d2ded-7ec9-4440-9a39-2e5f0dfdd713",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag659d2ded-7ec9-4440-9a39-2e5f0dfdd713",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "660e4b96-bfa2-4d5d-861e-96a21967322d",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag660e4b96-bfa2-4d5d-861e-96a21967322d",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "682fe1d2-2186-482a-a696-dd47b3f6047b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag682fe1d2-2186-482a-a696-dd47b3f6047b",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 9
+  },
+  {
+    "erid": "68ab09c9-0bc9-41e4-a7ea-35d6de8d5f88",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag68ab09c9-0bc9-41e4-a7ea-35d6de8d5f88",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 18
+  },
+  {
+    "erid": "68ca2250-496e-4963-b554-b6014cf6f2da",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag68ca2250-496e-4963-b554-b6014cf6f2da",
+    "field_erid": "eb7fb6a4-8a63-45f2-a15a-73d46ca78c24",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "699b6382-e9d2-42e8-8c26-f849ea187732",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag699b6382-e9d2-42e8-8c26-f849ea187732",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "6cb32b71-8e07-4612-b6f6-16fb3c9b6425",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag6cb32b71-8e07-4612-b6f6-16fb3c9b6425",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 34
+  },
+  {
+    "erid": "6e321a25-e3e2-4c10-8c53-06d23d1f9a73",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag6e321a25-e3e2-4c10-8c53-06d23d1f9a73",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 10
+  },
+  {
+    "erid": "6f3e3116-7e41-4cac-a312-241f44005803",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag6f3e3116-7e41-4cac-a312-241f44005803",
+    "field_erid": "b53a2e23-184f-48b2-8ec2-26f89d1111d5",
+    "mode": "absoluto",
+    "points": 112
+  },
+  {
+    "erid": "70638f3e-0dbc-4f5a-8d35-e77576af8172",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag70638f3e-0dbc-4f5a-8d35-e77576af8172",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "707c60ef-6782-493f-8135-ae7beba1dda3",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag707c60ef-6782-493f-8135-ae7beba1dda3",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 254
+  },
+  {
+    "erid": "728522ff-be74-4282-8e08-83483be2276a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag728522ff-be74-4282-8e08-83483be2276a",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 81
+  },
+  {
+    "erid": "729dd16d-1ca7-417b-83ee-94b7015d9a57",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag729dd16d-1ca7-417b-83ee-94b7015d9a57",
+    "field_erid": "cf5de1b1-f15f-456a-bab5-b8fe83e1616c",
+    "mode": "absoluto",
+    "points": 13
+  },
+  {
+    "erid": "749751f2-832d-4ea0-8b36-67370e618507",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag749751f2-832d-4ea0-8b36-67370e618507",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "75fe3512-c8a1-47f5-860f-f8f6df2627e3",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag75fe3512-c8a1-47f5-860f-f8f6df2627e3",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "7738c9cf-1906-41df-8b8a-244b34375869",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag7738c9cf-1906-41df-8b8a-244b34375869",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "7d5777c2-5394-42c3-9746-b7a2e258fb5c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag7d5777c2-5394-42c3-9746-b7a2e258fb5c",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "7feae63a-312b-4b62-8008-6f3966eaa4cd",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag7feae63a-312b-4b62-8008-6f3966eaa4cd",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "80c94ee2-85ea-488b-bbd6-3469ad2492a4",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag80c94ee2-85ea-488b-bbd6-3469ad2492a4",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "82829190-4bd2-44da-92b5-8de2ad6d6f43",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag82829190-4bd2-44da-92b5-8de2ad6d6f43",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "848786fd-f908-4621-b04b-852e6fd65091",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag848786fd-f908-4621-b04b-852e6fd65091",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "86d6a780-3001-484c-81da-1764c5079c1b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag86d6a780-3001-484c-81da-1764c5079c1b",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "8a3386a4-c231-4bd5-886b-aad46befcfc2",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag8a3386a4-c231-4bd5-886b-aad46befcfc2",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "8b1c2f94-c282-4df2-a856-b157a0d2752e",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag8b1c2f94-c282-4df2-a856-b157a0d2752e",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 22
+  },
+  {
+    "erid": "8e56d16f-5f75-4976-86de-a03c73cec2c8",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag8e56d16f-5f75-4976-86de-a03c73cec2c8",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 9
+  },
+  {
+    "erid": "91327940-57c9-438c-9908-99b9c7401b63",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag91327940-57c9-438c-9908-99b9c7401b63",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 39
+  },
+  {
+    "erid": "923d9645-1abb-45a4-8f81-5c0fdc01e263",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag923d9645-1abb-45a4-8f81-5c0fdc01e263",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 30
+  },
+  {
+    "erid": "94af3522-9de8-46b2-9497-dc710aa1e6bf",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag94af3522-9de8-46b2-9497-dc710aa1e6bf",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 51
+  },
+  {
+    "erid": "95eba549-03d6-468b-86d8-0a410de97037",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag95eba549-03d6-468b-86d8-0a410de97037",
+    "field_erid": "fc24361d-b7f3-4ece-aba6-1400f748c573",
+    "mode": "absoluto",
+    "points": 110
+  },
+  {
+    "erid": "9c4c1c73-3922-45f1-ae54-b114ed656213",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9c4c1c73-3922-45f1-ae54-b114ed656213",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "9d08f292-7860-442d-9530-06e527e81087",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9d08f292-7860-442d-9530-06e527e81087",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "9d26f061-3ec0-4f84-8ea0-f3c53e5f4f92",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9d26f061-3ec0-4f84-8ea0-f3c53e5f4f92",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "9e49c0b7-8088-44bf-8486-ff1768df874e",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9e49c0b7-8088-44bf-8486-ff1768df874e",
+    "field_erid": "b53a2e23-184f-48b2-8ec2-26f89d1111d5",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "9eab049f-5219-4024-8e62-1f567fdb58d6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9eab049f-5219-4024-8e62-1f567fdb58d6",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 64
+  },
+  {
+    "erid": "9f3fa6ba-f8ce-47e0-832b-ea415e8b0958",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9f3fa6ba-f8ce-47e0-832b-ea415e8b0958",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "9f7b1099-7ea5-4e67-821b-91ab1a6da86e",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9f7b1099-7ea5-4e67-821b-91ab1a6da86e",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 10
+  },
+  {
+    "erid": "9fc9b2ac-f2e7-41bc-b1f7-a81fc0fd12b3",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flag9fc9b2ac-f2e7-41bc-b1f7-a81fc0fd12b3",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "a1e4e6d3-b788-4d48-bbd3-f4db85cb4c1f",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga1e4e6d3-b788-4d48-bbd3-f4db85cb4c1f",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 21
+  },
+  {
+    "erid": "a3cbb744-8f94-4dae-aeda-a79b3e2286d3",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga3cbb744-8f94-4dae-aeda-a79b3e2286d3",
+    "field_erid": "ef2e8fa8-65be-4964-9fac-e247dfa3a382",
+    "mode": "absoluto",
+    "points": 24
+  },
+  {
+    "erid": "a517f280-2c3d-4296-8058-c8d57e5c43e0",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga517f280-2c3d-4296-8058-c8d57e5c43e0",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 19
+  },
+  {
+    "erid": "a664e383-b524-4d71-a740-c00b114afba6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga664e383-b524-4d71-a740-c00b114afba6",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 10
+  },
+  {
+    "erid": "a76131df-58c7-4683-bf7b-f6748a637ac1",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga76131df-58c7-4683-bf7b-f6748a637ac1",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "a77b0b12-e2ac-4410-a0c0-bb002e817a1c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga77b0b12-e2ac-4410-a0c0-bb002e817a1c",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 13
+  },
+  {
+    "erid": "a7af8e6c-edcb-47a6-a42d-61d8354767ab",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga7af8e6c-edcb-47a6-a42d-61d8354767ab",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "a82c7da9-8cb0-45b9-938b-ab405c306996",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga82c7da9-8cb0-45b9-938b-ab405c306996",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "a8c260bd-c421-4f65-b0a5-d0e647260457",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga8c260bd-c421-4f65-b0a5-d0e647260457",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 53
+  },
+  {
+    "erid": "a9949b65-210d-4348-970a-434bbcba5ea9",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flaga9949b65-210d-4348-970a-434bbcba5ea9",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "aa829304-3459-44a3-b4b1-2841f064554b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagaa829304-3459-44a3-b4b1-2841f064554b",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "ab7261f4-7cea-40dd-8982-d5c29e73ad3f",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagab7261f4-7cea-40dd-8982-d5c29e73ad3f",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "abc48bc8-5e13-4fb0-8f12-4e84baaf7953",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagabc48bc8-5e13-4fb0-8f12-4e84baaf7953",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 477
+  },
+  {
+    "erid": "abe287b9-3d60-4a06-8bdf-fe9405a2e7c0",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagabe287b9-3d60-4a06-8bdf-fe9405a2e7c0",
+    "field_erid": "fc24361d-b7f3-4ece-aba6-1400f748c573",
+    "mode": "absoluto",
+    "points": 30
+  },
+  {
+    "erid": "abff144c-bb99-425e-a40a-f245de1f2cf8",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagabff144c-bb99-425e-a40a-f245de1f2cf8",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "ac658d1d-7ede-4a6c-aa75-c0666e50056c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagac658d1d-7ede-4a6c-aa75-c0666e50056c",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "ac90df01-a431-4c57-80a6-e188c4ba0bc7",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagac90df01-a431-4c57-80a6-e188c4ba0bc7",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 16
+  },
+  {
+    "erid": "ad3fbafc-e18c-49a3-9d29-05efc0642dde",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagad3fbafc-e18c-49a3-9d29-05efc0642dde",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 2
+  },
+  {
+    "erid": "ae34d24b-3677-4a19-8137-2413b65989c2",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagae34d24b-3677-4a19-8137-2413b65989c2",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "b2cc9594-0933-429b-a44d-933d1391cf1a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb2cc9594-0933-429b-a44d-933d1391cf1a",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 33
+  },
+  {
+    "erid": "b3e56562-c261-4727-a881-e97759fce588",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb3e56562-c261-4727-a881-e97759fce588",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "b41760cf-3f7a-438f-ac85-29d602af8dfd",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb41760cf-3f7a-438f-ac85-29d602af8dfd",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 216
+  },
+  {
+    "erid": "b4a269d7-c907-4e23-ad3c-b68754d55fff",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb4a269d7-c907-4e23-ad3c-b68754d55fff",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "b622b588-c7d8-4eb5-9234-0ea49c391f7c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb622b588-c7d8-4eb5-9234-0ea49c391f7c",
+    "field_erid": "1594d207-0fcc-427d-889e-49cfedf1bbfb",
+    "mode": "absoluto",
+    "points": 9
+  },
+  {
+    "erid": "b7ade75c-229e-4f37-9ae7-da9953627188",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb7ade75c-229e-4f37-9ae7-da9953627188",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "b86d7f48-e6e2-410e-9072-714186c0f276",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb86d7f48-e6e2-410e-9072-714186c0f276",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "b8e94d72-c325-4300-be21-3dc31727ebd7",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb8e94d72-c325-4300-be21-3dc31727ebd7",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "b8f4fdee-5c04-483e-88e3-faeed5bf2674",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb8f4fdee-5c04-483e-88e3-faeed5bf2674",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "b97ce104-7438-4b87-8de2-d5bba78df756",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagb97ce104-7438-4b87-8de2-d5bba78df756",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "bb1eea17-83a3-4371-a8ff-b0bc51b714ba",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbb1eea17-83a3-4371-a8ff-b0bc51b714ba",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "bc7d7c30-b576-4470-845d-cf91be87e550",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbc7d7c30-b576-4470-845d-cf91be87e550",
+    "field_erid": "b665690d-f538-4355-9a05-9ba3bfee0af7",
+    "mode": "absoluto",
+    "points": 28
+  },
+  {
+    "erid": "bd54ec4a-10b8-436d-a869-4562567c2dad",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbd54ec4a-10b8-436d-a869-4562567c2dad",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 7
+  },
+  {
+    "erid": "bdbac47e-3b90-4953-a68a-8f879d2a61ef",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbdbac47e-3b90-4953-a68a-8f879d2a61ef",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "be7f1113-1211-4ebd-9f0b-b22d9c20e001",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbe7f1113-1211-4ebd-9f0b-b22d9c20e001",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 17
+  },
+  {
+    "erid": "bf001b7a-8efa-4941-9221-b75453bee1ee",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbf001b7a-8efa-4941-9221-b75453bee1ee",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 8
+  },
+  {
+    "erid": "bf1e7e23-95dd-493e-8ab0-68da775d938e",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbf1e7e23-95dd-493e-8ab0-68da775d938e",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "bf3f172b-bcf4-44df-9a33-27489c41cbe5",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagbf3f172b-bcf4-44df-9a33-27489c41cbe5",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 21
+  },
+  {
+    "erid": "c217588e-7387-489d-a3e1-6320f9145395",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc217588e-7387-489d-a3e1-6320f9145395",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "c31c1807-c06a-4b84-8903-d97a3d836b73",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc31c1807-c06a-4b84-8903-d97a3d836b73",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 12
+  },
+  {
+    "erid": "c3753091-2c8f-4bf8-99a5-aa95c46660d2",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc3753091-2c8f-4bf8-99a5-aa95c46660d2",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "c5c53af6-fe98-4286-a2ae-01a9197f1d93",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc5c53af6-fe98-4286-a2ae-01a9197f1d93",
+    "field_erid": "fc24361d-b7f3-4ece-aba6-1400f748c573",
+    "mode": "absoluto",
+    "points": 197
+  },
+  {
+    "erid": "c679564b-c1df-499a-8373-9596ebfe76b1",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc679564b-c1df-499a-8373-9596ebfe76b1",
+    "field_erid": "8977a207-fc30-46fd-ac3c-2f04f64c6a49",
+    "mode": "absoluto",
+    "points": 28
+  },
+  {
+    "erid": "c7bbb29f-f772-4832-8c23-58bdcffd5e2a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc7bbb29f-f772-4832-8c23-58bdcffd5e2a",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 3
+  },
+  {
+    "erid": "c8062485-4d73-4313-aaba-a676c7b4f1f4",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc8062485-4d73-4313-aaba-a676c7b4f1f4",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "absoluto",
+    "points": 97
+  },
+  {
+    "erid": "c8d0e4c7-7719-48c2-9c37-19eb47fe0ee6",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagc8d0e4c7-7719-48c2-9c37-19eb47fe0ee6",
+    "field_erid": "1594d207-0fcc-427d-889e-49cfedf1bbfb",
+    "mode": "absoluto",
+    "points": 19
+  },
+  {
+    "erid": "cff3c700-4fd6-4375-81e0-8444b8628779",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagcff3c700-4fd6-4375-81e0-8444b8628779",
+    "field_erid": "fc24361d-b7f3-4ece-aba6-1400f748c573",
+    "mode": "absoluto",
+    "points": 17
+  },
+  {
+    "erid": "d0e2759f-a608-4297-baad-46e1c72b8619",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagd0e2759f-a608-4297-baad-46e1c72b8619",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "d11c5d88-a002-40ad-acf0-151a34b5d69a",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagd11c5d88-a002-40ad-acf0-151a34b5d69a",
+    "field_erid": "b665690d-f538-4355-9a05-9ba3bfee0af7",
+    "mode": "absoluto",
+    "points": 27
+  },
+  {
+    "erid": "d28b4b86-6f11-40d5-a1d6-2536b05b7d28",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagd28b4b86-6f11-40d5-a1d6-2536b05b7d28",
+    "field_erid": "07d695c2-d563-4d15-a3a2-72262b8a9186",
+    "mode": "absoluto",
+    "points": 18
+  },
+  {
+    "erid": "d423e1ed-e25e-45a2-a7f1-10d6db6fc146",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagd423e1ed-e25e-45a2-a7f1-10d6db6fc146",
+    "field_erid": "cf5de1b1-f15f-456a-bab5-b8fe83e1616c",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "d602b4ff-f331-46e2-a0f8-ee4de1171989",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagd602b4ff-f331-46e2-a0f8-ee4de1171989",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 16
+  },
+  {
+    "erid": "df8b5183-8752-4bd8-869e-3b6b1f53598f",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagdf8b5183-8752-4bd8-869e-3b6b1f53598f",
+    "field_erid": "f850b7b2-85af-41f0-a14e-3db97d37a1e1",
+    "mode": "absoluto",
+    "points": 34
+  },
+  {
+    "erid": "dfa2093d-2b2e-4f66-b273-bf64b9f2adb0",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagdfa2093d-2b2e-4f66-b273-bf64b9f2adb0",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 13
+  },
+  {
+    "erid": "dfd2c2a5-185d-4132-8b96-2b54da2add85",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagdfd2c2a5-185d-4132-8b96-2b54da2add85",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "e252361f-3059-4443-b541-f7fc0b4c2e46",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flage252361f-3059-4443-b541-f7fc0b4c2e46",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 5
+  },
+  {
+    "erid": "e2b3b158-6bb3-4b11-a3de-5b443f3cee6b",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flage2b3b158-6bb3-4b11-a3de-5b443f3cee6b",
+    "field_erid": "cf5de1b1-f15f-456a-bab5-b8fe83e1616c",
+    "mode": "absoluto",
+    "points": 546
+  },
+  {
+    "erid": "e359c58e-eae0-40c8-aa9c-92a68e14d9d1",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flage359c58e-eae0-40c8-aa9c-92a68e14d9d1",
+    "field_erid": "827bd9aa-2db5-4665-a3e7-e6087e3f79f8",
+    "mode": "absoluto",
+    "points": 29
+  },
+  {
+    "erid": "e38a3690-a9f2-48a5-bb71-cbdee930a482",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flage38a3690-a9f2-48a5-bb71-cbdee930a482",
+    "field_erid": "f2863629-7965-446a-bcbe-94e85053c0a6",
+    "mode": "absoluto",
+    "points": 15
+  },
+  {
+    "erid": "e8dc8318-1eb0-42d8-83da-620ad818ac42",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flage8dc8318-1eb0-42d8-83da-620ad818ac42",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 4
+  },
+  {
+    "erid": "ec7fd145-51f4-48f2-99fb-e6d5130498b5",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagec7fd145-51f4-48f2-99fb-e6d5130498b5",
+    "field_erid": "ad90e8d5-06b8-4974-ac33-c654e8f5be93",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "ee4ba17c-7714-40df-8599-dba55461272c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagee4ba17c-7714-40df-8599-dba55461272c",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 27
+  },
+  {
+    "erid": "f017a094-c09d-45df-89e7-96235068f449",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagf017a094-c09d-45df-89e7-96235068f449",
+    "field_erid": "cf5de1b1-f15f-456a-bab5-b8fe83e1616c",
+    "mode": "absoluto",
+    "points": 22
+  },
+  {
+    "erid": "f2996911-f9bb-4efe-9793-1561cf0bc5c0",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagf2996911-f9bb-4efe-9793-1561cf0bc5c0",
+    "field_erid": "b53a2e23-184f-48b2-8ec2-26f89d1111d5",
+    "mode": "absoluto",
+    "points": 546
+  },
+  {
+    "erid": "f3617ff2-d662-4530-ad41-9b22a3d7a94c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagf3617ff2-d662-4530-ad41-9b22a3d7a94c",
+    "field_erid": "3db5f3e9-2981-4418-a194-00f865cffaf1",
+    "mode": "absoluto",
+    "points": 57
+  },
+  {
+    "erid": "f5fa1546-705b-4a2d-8eec-f6ba52179a3c",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagf5fa1546-705b-4a2d-8eec-f6ba52179a3c",
+    "field_erid": "e25f9eea-19de-4aad-890e-a0f3d188f85e",
+    "mode": "absoluto",
+    "points": 6
+  },
+  {
+    "erid": "f7a4fe4e-3f39-4466-b6a5-beba68e11852",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagf7a4fe4e-3f39-4466-b6a5-beba68e11852",
+    "field_erid": "bc5887a0-4c08-4316-b584-e06be96dc9a0",
+    "mode": "absoluto",
+    "points": 22
+  },
+  {
+    "erid": "fa534a33-2baf-4c3e-aba7-b5252f6706dc",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagfa534a33-2baf-4c3e-aba7-b5252f6706dc",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "faa9fede-44cc-4ea4-b370-d9431345d710",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagfaa9fede-44cc-4ea4-b370-d9431345d710",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 56
+  },
+  {
+    "erid": "fc3dc8bc-9720-4ef7-9ce1-79dcda3671c4",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagfc3dc8bc-9720-4ef7-9ce1-79dcda3671c4",
+    "field_erid": "2bc0375d-0028-41f0-8cec-5916b73afb3b",
+    "mode": "absoluto",
+    "points": 14
+  },
+  {
+    "erid": "fd03f591-4e38-4ede-9b50-459841daf712",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagfd03f591-4e38-4ede-9b50-459841daf712",
+    "field_erid": "c5cef9a4-7453-4261-b6b1-ff874ccaec0d",
+    "mode": "absoluto",
+    "points": 11
+  },
+  {
+    "erid": "ff313e32-db13-437d-9f4f-c2849b0e5c73",
+    "tag": "FlagSessionLayer",
+    "name": "",
+    "file_name": "Flagff313e32-db13-437d-9f4f-c2849b0e5c73",
+    "field_erid": "546f6283-7ed2-46b8-bb4c-a3e9297b2ef4",
+    "mode": "absoluto",
+    "points": 12
+  }
+]

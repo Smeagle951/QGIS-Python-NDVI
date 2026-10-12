@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <AssemblyName>AgGateway.ADAPT.ISOv4Plugin</AssemblyName>
+    <RootNamespace>AgGateway.ADAPT.ISOv4Plugin</RootNamespace>
+    <Version>2.0.0</Version>
+    <NeutralLanguage>English (United States)</NeutralLanguage>
+    <Copyright>Copyright (C) 2015-19 AgGateway and ADAPT Contributors</Copyright>
+    <Product>ISOv4Plugin</Product>
+    <Company>AgGateway</Company>
+    <Authors>AgGateway and ADAPT Contributors</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AgGatewayADAPTFramework" Version="3.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\ddiExport.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\IsoUnitOfMeasure.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="3" minor="0" build="0" revision="117" nameSourceApp="RCD Target Provider" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" uuidSession="{2c956efb-f730-4470-ba99-f6685ceffdf5}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <bt:Synchronization>
+      <bt:NodeVersions>
+        <bt:Node uuid="{0989b35a-3214-4e2c-958b-67767083eee0}" lastSeen="2026-09-08T13:53:51.2573771Z" />
+      </bt:NodeVersions>
+      <bt:EntityDeletions />
+    </bt:Synchronization>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="1970-01-01T00:00:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{4ffd3048-c98f-4c31-8556-25de8b34b060}" name="SILVANDRO BARCHET" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-09-08T09:53:50.8758504-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}" name="FAZ FERRADURA" clientRef="{4ffd3048-c98f-4c31-8556-25de8b34b060}" />
+    <rcdsetup:Field lastModified="2026-09-08T09:53:50.8781532-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{22bafbaa-4068-4f8c-9e1f-2abc20e110c8}" name="PV-0238L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <rcdsetup:Area value="141.07782392958313" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{22bafbaa-4068-4f8c-9e1f-2abc20e110c8}">
+    <CurvedTrackLine lastModified="1970-01-01T00:00:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{2c215d96-5d9a-408d-8b3b-1798b5628dd2}" spatialGeometryType="point" fileName="CurveTrack2c215d96-5d9a-408d-8b3b-1798b5628dd2" name="CURVA">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.37735647899728" south="-15.389279351808629" east="-54.4616237175767" west="-54.475013788835135" />
+      <spatial:dtSignalType value="dtiSignalTypeUnknown" definedTypeRepresentation="dtSignalType" />
+      <rcdscbase:vrEastShiftComponent value="0" sourceUOM="m" variableRepresentation="vrEastShiftComponent" />
+      <rcdscbase:vrNorthShiftComponent value="0" sourceUOM="m" variableRepresentation="vrNorthShiftComponent" />
+      <rcdscbase:vrReferenceLatitude value="-15.382918166604966" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="-54.462726161382136" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+    <HeadLand lastModified="0001-01-01T00:00:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{3fe44dd9-16c3-329e-1010-41021b94403a}" name="CABECEIRA EXTERNA" useAsTurnPredictor="false" useDrivenExteriorHeadland="true">
+      <vrHeadlandOffset value="0" sourceUOM="ft" variableRepresentation="vrHeadlandOffset" />
+    </HeadLand>
+    <Boundary lastModified="2026-09-08T09:53:50.8781584-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{6c1fd3c0-e6c1-4a72-ab48-f30ffe956f8f}" spatialGeometryType="polygon" fileName="Boundary6c1fd3c0-e6c1-4a72-ab48-f30ffe956f8f">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.377270652697522" south="-15.389365195297511" east="-54.4620884012144" west="-54.47455040661405" />
+      <spatial:dtSignalType value="dtiSignalTypeRTK" definedTypeRepresentation="dtSignalType" />
+      <NameIDPair Name="LIMITE INTERNO" ID="1" />
+      <NameIDPair Name="LIMITE INTERNO" ID="2" />
+      <NameIDPair Name="LIMITE INTERNO" ID="3" />
+      <NameIDPair Name="LIMITE INTERNO" ID="4" />
+      <HeadlandLookup ID="0" eridRef="{3fe44dd9-16c3-329e-1010-41021b94403a}" />
+    </Boundary>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

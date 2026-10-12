@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{aecaeacd-7974-4de6-96c4-500efa57a1db}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-08-27T00:54:25.188Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{8d28a024-8db8-4d42-977f-ee84ef6a75a9}" name="SILVANDRO BARCHET(1)" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-08-27T00:54:25.188Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{62ab74b2-a0d2-4a1f-b9eb-ed7c1aa4c96a}" name="FAZ FERRADURA" clientRef="{8d28a024-8db8-4d42-977f-ee84ef6a75a9}" />
+    <rcdsetup:Field lastModified="2026-08-27T00:54:25.188Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f71dc899-1330-4735-ab73-a300f7ecbfc2}" name="PV-01" farmRef="{62ab74b2-a0d2-4a1f-b9eb-ed7c1aa4c96a}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{f71dc899-1330-4735-ab73-a300f7ecbfc2}">
+    <CurvedTrackLine lastModified="2026-08-27T00:54:25.182Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f04ebf5f-a1e0-46cb-a5dd-9f8601f9b953}" spatialGeometryType="point" fileName="CurveTrackf04ebf5f-a1e0-46cb-a5dd-9f8601f9b953" name="BORDADURA">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="0.0011465442133040682" south="-0.01009835386051705" east="0.00738434196095028" west="-0.0026947690025878046" />
+      <rcdscbase:vrReferenceLatitude value="3.477328748502373e-06" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="6.412320409765471e-06" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+    <CurvedTrackLine lastModified="2026-08-27T00:54:25.184Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{cace551a-6000-4cd3-84fc-99c7f87b530c}" spatialGeometryType="point" fileName="CurveTrackcace551a-6000-4cd3-84fc-99c7f87b530c" name="PLANTADEIRA 30L">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="0.011442295791344037" south="1.3232817224206883e-06" east="0.010801282092735676" west="-0.002650494469499165" />
+      <rcdscbase:vrReferenceLatitude value="3.004871906320261e-05" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="0.00013618074441978933" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+    <Boundary lastModified="2026-08-27T00:54:25.187Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{{00e274c6-854e-4d54-9153-6503c7c3e3e8}}" spatialGeometryType="polygon" fileName="Boundary00e274c6-854e-4d54-9153-6503c7c3e3e8">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.3821303727" south="-15.3946592479" east="-54.4734062987" west="-54.4863246417" />
+      <spatial:dtSignalType value="dtiSignalTypeUnknown" definedTypeRepresentation="dtSignalType" />
+      <NameIDPair Name="LIMITE INTERNO" ID="1" passable="true" />
+    </Boundary>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

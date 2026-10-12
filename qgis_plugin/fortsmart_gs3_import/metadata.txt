@@ -1,0 +1,13 @@
+[general]
+name=FortSmart Precision Ag
+qgisMinimumVersion=3.16
+qgisMaximumVersion=4.99
+version=2.9.20
+author=FortSmart
+email=
+description=FortSmart Precision Ag — export John Deere GS3/Gen4 validado para limites, curvas e monitores.
+about=Exporta GS3 com cabeçalho fdShape nativo, limites internos e bordadura associados; exporta Gen4 com limite externo simplificado e sem arquivos residuais. Também importa MasterData/SpatialFiles e exporta GPKG, SHP, GeoJSON e KML.
+category=Vector
+icon=icon.svg
+experimental=False
+deprecated=False

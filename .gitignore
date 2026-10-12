@@ -1,0 +1,10 @@
+# Caches e artefatos locais do Python/QGIS
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Backups e dados temporarios podem conter configuracoes pessoais ou credenciais.
+backups/
+qgis_plugin_backups/
+data/backups/
+data/temp/

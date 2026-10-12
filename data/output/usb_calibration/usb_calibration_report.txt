@@ -1,0 +1,37 @@
+Calibracao USB FortSmart — E:\
+
+[OK] john_deere_gs3
+  Path: E:\GS3_2630\JD4600\RCD\EIC
+  Arquivos: 11 (ex.: E:\GS3_2630\JD4600\RCD\EIC\setup.fds)
+  -> Use Importar FortSmart → GS3 2630
+  Amostra:
+    Fields/
+    Fields/08/
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/ABCurve26e3ec28-bc7f-4ea5-93b9-dbc8eb962217.fdShape
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/ABCurves.SpatialCatalog
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/Boundary61673574-54e8-4190-a3c4-7af1f1f00834.fdData
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/Boundary61673574-54e8-4190-a3c4-7af1f1f00834.fdShape
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/CurveTrack7a27b00e-9de1-47a0-9d21-e26d68741a4a.fdShape
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/CurveTrack892e517f-13f2-49ef-a22c-ae83d85bada9.fdShape
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/CurveTrackba89a5ef-363e-408e-a62a-1cf564c4c061.fdShape
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/ImportExport.SpatialCatalog
+    Fields/08/4655a108-4ae6-4aea-8803-441c960cd211/WaterManagement.SpatialCatalog
+
+[OK] john_deere_gen4
+  Path: E:\Gen4
+  Arquivos: 6 (ex.: E:\Gen4\MasterData.xml)
+  -> Use perfil John Deere Gen4 no FortSmart
+  Amostra:
+    MasterData.xml
+    SpatialFiles/
+    SpatialFiles/ABCurve{0bbaec36-13e1-47dc-b5e0-5efccf5a349e}.gjson
+    SpatialFiles/ABCurve{16e9df9c-ce60-4fec-9624-eefe4cc25eac}.gjson
+    SpatialFiles/ABCurve{224fb263-08d7-466e-be2a-4e232fb7bf32}.gjson
+    SpatialFiles/ABCurve{26e3ec28-bc7f-4ea5-93b9-dbc8eb962217}.gjson
+    SpatialFiles/ABCurve{277b06ce-876b-4a0e-8211-825d9d73195b}.gjson
+    SpatialFiles/ABCurve{461f9277-8b26-4d3b-a58e-e931bdcb1206}.gjson
+    SpatialFiles/ABCurve{6ea6c447-d5b6-498b-a6f0-a64cbc2d8fc4}.gjson
+    SpatialFiles/ABCurve{6ead8bde-ce1a-43bd-b27d-6ae67539bf58}.gjson
+    SpatialFiles/ABCurve{904dc1a5-04a2-4d64-ad13-32931fb85142}.gjson
+    SpatialFiles/ABCurve{9161b4fc-c0f6-44ba-ae20-1b83bc1868b1}.gjson

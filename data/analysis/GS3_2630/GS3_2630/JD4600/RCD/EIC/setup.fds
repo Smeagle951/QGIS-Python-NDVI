@@ -1,0 +1,638 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetupFile xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns="urn:schemas-johndeere-com:RCD:Setup">
+  <SourceApp major="10" minor="28" build="331474" revision="0" nameSourceApp="GEN4OS" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{c5690a84-5081-4216-9f7e-c455a88a9e19}" />
+  <Setup>
+    <FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </FileSchemaVersion>
+    <bt:Synchronization>
+      <bt:NodeVersions>
+        <bt:Node uuid="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" lastSeen="2026-08-25T18:50:42.440338Z" />
+      </bt:NodeVersions>
+      <bt:EntityDeletions />
+    </bt:Synchronization>
+    <Participant>
+      <Client lastModified="2026-04-18T12:34:52Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{d43f6edc-6353-458c-aed4-8ebbe390b3c2}" name="Limites ferradura 20" />
+    </Participant>
+    <Participant>
+      <Client lastModified="1970-01-01T04:00:00Z" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{a50ba047-14b7-43ca-8776-0232ef1b8db1}" name="MACHOS02_2026" />
+    </Participant>
+    <Participant>
+      <Client lastModified="1970-01-01T04:00:00Z" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{36c63d01-68a6-46c3-a300-d85d03a4415a}" name="MILHO MACHO BAYER" />
+    </Participant>
+    <Participant>
+      <Client lastModified="1970-01-01T00:00:00Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{6b510e1b-5306-45e9-8b11-c16c26cf634e}" name="---" />
+    </Participant>
+    <Participant>
+      <Operator lastModified="1970-01-01T04:00:00Z" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{e6fd68b6-803d-4888-bb53-76bb78334a3b}" name="Adamastor" />
+    </Participant>
+    <Farm lastModified="2026-04-18T12:35:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{e2b67823-9d7c-4453-9b4a-e7285f160d24}" name="Ferradura" clientRef="{d43f6edc-6353-458c-aed4-8ebbe390b3c2}" />
+    <Farm lastModified="1970-01-01T00:00:00Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{5d092344-6240-42f7-906f-e3f465902f91}" name="---" clientRef="{6b510e1b-5306-45e9-8b11-c16c26cf634e}" />
+    <Field lastModified="2026-04-18T12:36:47Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{1594d207-0fcc-427d-889e-49cfedf1bbfb}" name="Pivo 3" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:36:24Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{b53a2e23-184f-48b2-8ec2-26f89d1111d5}" name="Pivo 6" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T11:17:59Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{81119ce6-bcf5-45aa-833f-77046e3d0dea}" name="Th 7-D" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T10:14:58Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{e70ad97e-c7b2-4e47-b4ec-165ca1011ee1}" name="Th-14" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T18:49:25Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{8e3b2610-283f-4c93-9618-27c365a84929}" name="Pivo  02" farmRef="{5d092344-6240-42f7-906f-e3f465902f91}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T17:59:53Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{cf5de1b1-f15f-456a-bab5-b8fe83e1616c}" name="Th-6B,C" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T18:06:56Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{125fbf52-03e1-4119-90fc-b940b421b4ca}" name="Th-18" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T16:50:24Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{6c7e42e6-eebb-4ab5-801f-4bac0ab68ec5}" name="Th -17" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T17:02:48Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{f2863629-7965-446a-bcbe-94e85053c0a6}" name="Th-16" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T17:18:14Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{e25f9eea-19de-4aad-890e-a0f3d188f85e}" name="Th-12" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:38:34Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{9e49842e-3aca-4e0f-b038-2525c486b6cc}" name="Th-1-B" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:37:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{eb7fb6a4-8a63-45f2-a15a-73d46ca78c24}" name="Pivo 1" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T17:07:00Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{b665690d-f538-4355-9a05-9ba3bfee0af7}" name="Pivo-10" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T20:20:58Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{ef2e8fa8-65be-4964-9fac-e247dfa3a382}" name="Th-3A" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T20:22:02Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{827bd9aa-2db5-4665-a3e7-e6087e3f79f8}" name="Th-9" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T17:53:54Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{546f6283-7ed2-46b8-bb4c-a3e9297b2ef4}" name="Th-5A" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:36:35Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{bc5887a0-4c08-4316-b584-e06be96dc9a0}" name="Pivo 5" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T18:29:45Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{c5cef9a4-7453-4261-b6b1-ff874ccaec0d}" name="Th-5-B.C" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T18:49:25Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{959713e0-aeeb-4ccd-9974-7c811799e89e}" name="Talhao 19" farmRef="{5d092344-6240-42f7-906f-e3f465902f91}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:36:58Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{3db5f3e9-2981-4418-a194-00f865cffaf1}" name="Pivo 2" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:38:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{ad90e8d5-06b8-4974-ac33-c654e8f5be93}" name="Th-1-A" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:36:09Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{fc24361d-b7f3-4ece-aba6-1400f748c573}" name="Th 15 ventosa" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:35:55Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{8977a207-fc30-46fd-ac3c-2f04f64c6a49}" name="Th 10  ventosa" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-24T17:28:32Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{2bc0375d-0028-41f0-8cec-5916b73afb3b}" name="Th-8-" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T14:33:57Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{f850b7b2-85af-41f0-a14e-3db97d37a1e1}" name="Pivo 11" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-25T13:17:51Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{07d695c2-d563-4d15-a3a2-72262b8a9186}" name="Th-11" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-04-18T12:37:10Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{7a3282e2-f6c8-4b81-b9c5-fe878da5acec}" name="Pivo 4" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <FertilizerType lastModified="2006-01-26T13:30:04Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" name="Fertilizante" refAttributeID="0" />
+    <FertilizerType lastModified="2006-01-26T13:30:04Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{eb2be46e-8876-44d4-9a05-5e2e874a8598}" name="Adubo" refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" name="Transportador" refAttributeID="0" />
+    <ChemicalType lastModified="2023-06-23T19:27:04Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{a81750f5-8f21-40aa-98ac-ebe76879d71b}" name="Defoliant" refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{077df20c-74e9-43e4-a9fc-e3c666cae578}" name="Estab. Nitrog�nio" refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{e443333a-e60b-4363-87f8-acc7fcd4eca5}" name="Regulador de Cresc." refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{ca0687e8-8c87-4bac-8f65-20b124b82a70}" name="Herbicida" refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:02Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{cdd99744-8a85-4215-8756-215a45a554c8}" name="Aditivo" refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{7c1d277e-c1b0-4a76-94e1-ac53a630f4b1}" name="Fungicida" refAttributeID="0" />
+    <ChemicalType lastModified="2023-06-23T19:25:04Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{c518ba6c-fea6-45ca-b666-219216efec65}" name="Adjuvant" refAttributeID="0" />
+    <ChemicalType lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{fb436e9c-2b11-43b4-8fe8-a5e69cd4bd44}" name="Inseticida" refAttributeID="0" />
+    <Products>
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{3058764f-a429-4124-8b2e-07f6b9e3398d}" name="AMS" refID="0" chemicalTypeRef="{cdd99744-8a85-4215-8756-215a45a554c8}" />
+      <Chemical lastModified="2006-01-26T13:30:02Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{8c98defe-d955-4590-b091-7b5981cf7b64}" name="MSO" refID="0" chemicalTypeRef="{cdd99744-8a85-4215-8756-215a45a554c8}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{58ff4894-6bec-4f3d-944b-83da800f9b75}" name="COC" refID="0" chemicalTypeRef="{cdd99744-8a85-4215-8756-215a45a554c8}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{d0d6b57e-764d-4ac1-a19b-3c4d3bcd39d8}" name="Bravo" refID="0" chemicalTypeRef="{7c1d277e-c1b0-4a76-94e1-ac53a630f4b1}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{57d16d1a-0df9-4615-b0b1-7b347d0f22bb}" name="Atrazine" refID="0" chemicalTypeRef="{ca0687e8-8c87-4bac-8f65-20b124b82a70}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{f62be802-bb95-4947-85da-4df296a17640}" name="Counter" refID="0" chemicalTypeRef="{fb436e9c-2b11-43b4-8fe8-a5e69cd4bd44}" />
+      <Chemical lastModified="2006-01-26T16:58:01Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{0d373fc5-d2a0-4afc-be6e-f8f34eabaaac}" name="Água" refID="0" chemicalTypeRef="{cdd99744-8a85-4215-8756-215a45a554c8}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{38c9cc0b-0364-4c85-9671-89b55f406897}" name="Select" refID="0" chemicalTypeRef="{ca0687e8-8c87-4bac-8f65-20b124b82a70}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{6042e527-ee5b-4ad6-b3e1-c5e550637cb4}" name="Captan" refID="0" chemicalTypeRef="{7c1d277e-c1b0-4a76-94e1-ac53a630f4b1}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{77421064-447c-4a2b-8dda-141d37cccf78}" name="Roundup" refID="0" chemicalTypeRef="{ca0687e8-8c87-4bac-8f65-20b124b82a70}" />
+      <Chemical lastModified="2006-01-26T13:30:03Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{1d16391f-fd65-4ed9-bf2c-065a13e56cb7}" name="Lorsban" refID="0" chemicalTypeRef="{fb436e9c-2b11-43b4-8fe8-a5e69cd4bd44}" />
+      <Chemical lastModified="2006-01-26T16:58:01Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{53b03c91-d9e8-4d8e-a6dc-7e7ac43b8e87}" name="Água" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Chemical lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{df4c35d6-c44b-4815-bef9-1b5904b4a842}" name="28-0-0-UAN" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Chemical lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{e767c7d2-ac9e-4059-8f23-34ea76509ed2}" name="32-0-0-UAN" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Chemical lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{543a57c7-bd74-44a0-a240-8733c4d6410f}" name="Fertilizante (Seco)" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Chemical lastModified="2006-02-01T20:59:43Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{44d91e7a-3409-4dfd-877a-c250305093b0}" name="10-34-0 Solution" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Chemical lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{f35b7f67-8c59-4303-bb41-28e84bee80cd}" name="Fertilizante (Líq.)" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Chemical lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{fd859b30-20fa-41dc-a449-cf71ead27e99}" name="Água e Fertilizante" refID="0" chemicalTypeRef="{3c6cb8e5-3416-40da-ae1f-e683a028ac0e}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{c0150820-f667-4e01-9513-d76daa5a54b2}" name="11-55-0 MAP" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{3678dedb-55d4-4c6a-a93a-24e909c70bfd}" name="28-0-0-UAN" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{16a4af29-4047-41f3-a46e-bbcbcd6bf980}" name="Adubo Suíno" refID="0" fertilizerTypeRef="{eb2be46e-8876-44d4-9a05-5e2e874a8598}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{aa43e0c8-1c24-42a4-9ef9-52cbed8905f7}" name="Adubo Bovino" refID="0" fertilizerTypeRef="{eb2be46e-8876-44d4-9a05-5e2e874a8598}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{02e0fcc3-29fc-4aa4-8f93-b3161d4e1ca3}" name="Adubo de Biogás" refID="0" fertilizerTypeRef="{eb2be46e-8876-44d4-9a05-5e2e874a8598}" />
+      <Fertilizer lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{2a16ebde-cb3a-443d-a933-5376d24cc953}" name="32-0-0-UAN" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{74ab6665-7644-4f66-861b-a37863649240}" name="Fertilizante (Seco)" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{22697f8e-e1b8-4aae-bd59-1510bffbe8e8}" name="11-52-0 MAP" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{d23d3168-dd27-4183-a5b1-00fa925e1231}" name="0-0-60 Cloreto de Po" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{03b1f54d-4200-460d-80f4-a41c5982a10b}" name="46-0-0 Ureia" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{174d246e-7a92-4b3f-b205-2b93dc2028fd}" name="18-46-0 DAP" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="1970-01-01T00:00:00Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{af8bda40-3f5f-4a71-a868-9fea8b67442e}" name="34-0-0 Nitrato de Am" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="2006-02-01T20:59:43Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{a4129e64-25ec-4f3d-accb-835e1b497084}" name="10-34-0 Solution" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{57fb0c12-257d-496c-84ef-e300012387d1}" name="Fertilizante (Líq.)" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Fertilizer lastModified="2006-01-31T19:04:34Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{c8e4d09c-7e52-4751-a508-7e62608a34c4}" name="Água e Fertilizante" refID="0" fertilizerTypeRef="{fd2bfe9d-51c6-46f4-98ef-d2a02d7859ea}" />
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="9" name="MILLET" legacyId="10">
+        <CropWeight value="50" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="11" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="10" name="MUSTARD" legacyId="11">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="8" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="11" name="OATS" legacyId="12">
+        <CropWeight value="14.51" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="13" name="PEAS_FIELD" legacyId="14">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="146" name="Separar" legacyId="149">
+        <CropWeight value="1" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="16" name="RAPE_SEED" legacyId="17">
+        <CropWeight value="23.59" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="17" name="RICE_LONG" legacyId="18">
+        <CropWeight value="20.41" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="18" name="RICE_MEDIUM" legacyId="19">
+        <CropWeight value="20.41" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="19" name="Centeio" legacyId="20">
+        <CropWeight value="56" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="20" name="SAFFLOWER" legacyId="21">
+        <CropWeight value="45" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="6" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="21" name="SORGHUM" legacyId="22">
+        <CropWeight value="25.4" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="22" name="SUNFLOWER_OIL" legacyId="24">
+        <CropWeight value="13.14" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="23" name="SUNFLOWER_STRIPE" legacyId="25">
+        <CropWeight value="9.07" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="24" name="WHEAT_DURUM" legacyId="26">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="25" name="WHEAT_HRD_RD_SPR" legacyId="27">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="26" name="WHEAT_HRD_RD_WTR" legacyId="28">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="27" name="WHEAT_SFT_RD_WTR" legacyId="29">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="28" name="WHEAT_WHITE" legacyId="30">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="29" name="CHICKPEAS" legacyId="31">
+        <CropWeight value="60.98" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="30" name="LUPINS" legacyId="32">
+        <CropWeight value="24.04" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="31" name="BARLEY_EURO_SPR" legacyId="33">
+        <CropWeight value="47.99" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="96" name="LETTUCE" legacyId="99">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="97" name="Lucerne" legacyId="100">
+        <CropWeight value="1" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="100" name="MELON" legacyId="103">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="102" name="ONIONS" legacyId="105">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="104" name="PARSLEY" legacyId="107">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="105" name="PEANUTS" legacyId="108">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="107" name="POPPY_SEED" legacyId="110">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="110" name="POTATOES_FOR_RETAIL" legacyId="113">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="244" name="WHEAT" legacyId="0">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="119" name="RETTICH" legacyId="122">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="126" name="SHALLOTS" legacyId="129">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="64" name="CORN_SILAGE" legacyId="67">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="65" name="CORN_COB_MIX" legacyId="68">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="197" name="ORCHARDGRASS" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="198" name="DOWNY_BROMEGRASS" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="68" name="CUCUMBER" legacyId="71">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="199" name="SMOOTH_BROMEGRASS" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="200" name="REED_CANARY_GRASS" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="201" name="TALL_FESCUE" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="71" name="ELEPHANT_GRASS" legacyId="74">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="202" name="TIMOTHY_GRASS" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="203" name="BERMUDA_GRASS" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="204" name="FESTULOLIUM" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="205" name="GRASS_CLOVER" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="75" name="FIELD_MEADOW_GRASS" legacyId="78">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="206" name="GRASS_ALFALFA" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="207" name="FORAGE_MIX" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="208" name="COFFEE" legacyId="0">
+        <CropWeight value="19.769" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="1" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="78" name="GHERKIN" legacyId="81">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="209" name="BASIL" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="210" name="CHIVES" legacyId="0">
+        <CropWeight value="4.5" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="211" name="CORIANDER" legacyId="0">
+        <CropWeight value="28" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="81" name="GRASS_FORAGE" legacyId="84">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="212" name="ZUCCHINI" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="82" name="GRASSLAND" legacyId="85">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="213" name="PARSNIP" legacyId="0">
+        <CropWeight value="22.7" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="83" name="GREEN_CABBAGE" legacyId="86">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="214" name="BELL_PEPPER" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="215" name="QUINOA" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="216" name="CORN_SEED" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="88" name="HEMP" legacyId="91">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="95" name="LEEK" legacyId="98">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="32" name="BARLEY_EURO_WTR" legacyId="34">
+        <CropWeight value="47.99" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="33" name="BARLEY_EURO_6" legacyId="35">
+        <CropWeight value="47.99" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="34" name="CORN_EURO" legacyId="36">
+        <CropWeight value="25.4" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="15" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="35" name="OATS_EURO" legacyId="37">
+        <CropWeight value="14.51" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="15" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="36" name="PEAS_EURO" legacyId="38">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="37" name="POPCORN_EURO" legacyId="39">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="15.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="168" name="SQUASH" legacyId="172">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="38" name="RAPE_SEED_E_IND" legacyId="40">
+        <CropWeight value="23.59" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="8.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="39" name="RYE_EURO" legacyId="41">
+        <CropWeight value="56" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="40" name="SUNFLOWER_E_IND" legacyId="42">
+        <CropWeight value="11.33" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="9" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="171" name="SWEET_CORN" legacyId="175">
+        <CropWeight value="70" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="41" name="SUNFLOWER_E_OIL" legacyId="43">
+        <CropWeight value="11.33" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="9" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="42" name="TRITICALE_EURO" legacyId="44">
+        <CropWeight value="26.3" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="173" name="CORN_WET" legacyId="6">
+        <CropWeight value="25.4" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="15" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+        <CropVariety lastModified="2025-01-08T15:31:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{346f457a-ce1b-4bd7-b5d9-db25baf1a030}" name="BAYER" refID="0" treated="false" GMO="false">
+          <DefaultLot />
+        </CropVariety>
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="43" name="WHEAT_EURO_FEED" legacyId="45">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="174" name="SOYBEANS" legacyId="23">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="13" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="44" name="WHEAT_EURO_WTR" legacyId="46">
+        <CropWeight value="27.22" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="175" name="COTTON" legacyId="48">
+        <CropWeight value="480" sourceUOM="lb1bale-1" variableRepresentation="vrCropWeightBale" />
+        <StandardPayableMoisture value="1" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="45" name="RAPE_SEED_E_OIL" legacyId="47">
+        <CropWeight value="23.59" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="8.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="176" name="Est�gio inicial. WCS" legacyId="177">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="177" name="Cana Energia" legacyId="178">
+        <CropWeight value="1" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="178" name="MUNG_BEAN" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="48" name="BEETS" legacyId="51">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="179" name="SUDANGRASS" legacyId="0">
+        <CropWeight value="40" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="49" name="BELGIAN_ENDIVE" legacyId="52">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="180" name="CANOLA_POLISH" legacyId="0">
+        <CropWeight value="52" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="181" name="MUSTARD_GISILBA" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="8" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="51" name="BROCCOLI" legacyId="54">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="182" name="LENTIL_CRIMSON" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="183" name="LENTIL_ESTON" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="184" name="LENTIL_CHILEAN" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="185" name="LENTIL_LAIRD" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="186" name="PEA_TRAPPER" legacyId="0">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="56" name="CARROTS" legacyId="59">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="189" name="RUTABAGA" legacyId="0">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="59" name="CELERY" legacyId="62">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="61" name="CHICORY" legacyId="64">
+        <CropWeight value="1" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="129" name="SPINACH" legacyId="132">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="63" name="CLOVER" legacyId="66">
+        <CropWeight value="60" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="1" name="ALFALFA" legacyId="1">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="132" name="SUGARBEET" legacyId="135">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="2" name="BARLEY" legacyId="2">
+        <CropWeight value="21.77" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="133" name="SUGAR_CANE" legacyId="136">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="3" name="EDIBLE_BEANS" legacyId="3">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="4" name="NAVY_BEANS" legacyId="4">
+        <CropWeight value="61.99" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="14.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="135" name="TANKARD_TURNIP" legacyId="138">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="5" name="CANOLA" legacyId="5">
+        <CropWeight value="23.59" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="6" name="FLAX" legacyId="7">
+        <CropWeight value="56" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="7" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="7" name="GRASS_SEEDS" legacyId="8">
+        <CropWeight value="22" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="12" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="138" name="TOMATOES" legacyId="141">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="8" name="LENTILS" legacyId="9">
+        <CropWeight value="60.01" sourceUOM="lb1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="10.5" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+      <Crop lastModified="1970-01-01T00:00:00" sourceNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" id="139" name="TUBER_FENNEL" legacyId="142">
+        <CropWeight value="0" sourceUOM="kg1bu-1" variableRepresentation="vrCropWeightVolume" />
+        <StandardPayableMoisture value="0" sourceUOM="prcnt" variableRepresentation="vrStandardPayableMoisture" />
+      </Crop>
+    </Products>
+    <FlagTypes>
+      <NamedFlagType lastModified="2026-04-18T14:35:09Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{bac01d24-edb6-41ef-85a5-8e821f34d324}" name="Base pivo" />
+      <NamedFlagType lastModified="2008-09-17T10:57:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{688c20bb-9609-4590-95c9-649ba65c06df}" name="Pedras" />
+      <NamedFlagType lastModified="2008-09-17T10:57:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{186b9781-04e3-4c8a-a872-fe9fa1493914}" name="Ervas daninhas" />
+      <NamedFlagType lastModified="2026-04-18T14:34:52Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{7507a05b-e6e9-4878-818f-4cbef271c7ab}" name="Ventosa" />
+      <NamedFlagType lastModified="2026-08-24T17:29:49Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{b30ee009-3c4e-4b6f-8390-31923c125849}" name="Poste-rede" />
+      <NamedFlagType lastModified="2026-08-24T17:41:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{dca800c6-77f1-4900-a682-351ac340b9bc}" name="Limite-estrada-pv" />
+    </FlagTypes>
+    <UserDefinedType lastModified="2008-09-17T10:56:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{0f592078-a596-477d-8e6a-8f12a50b7389}" name="Tipo de Cultivo">
+      <UserDefinedTypeInstance lastModified="2008-09-17T10:56:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{ddaf2662-df39-488d-9a40-2fec15887cd7}" name="Enxada Rotativa" refID="0" />
+      <UserDefinedTypeInstance lastModified="2008-09-17T10:56:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{6c55529d-5b4d-4e3e-b986-18cebf54f4d6}" name="Cultivo Principal" refID="0" />
+      <UserDefinedTypeInstance lastModified="2008-09-17T10:56:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{842c34a2-0585-4d3d-b115-33788f0c62e8}" name="Cultura em Linha" refID="0" />
+      <UserDefinedTypeInstance lastModified="2008-09-17T10:56:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{4e51f08c-5e52-42fb-b1b0-0732207e189a}" name="Cultivo Secund�rio" refID="0" />
+    </UserDefinedType>
+  </Setup>
+</SetupFile>

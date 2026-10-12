@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="RCD Target Provider" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{27831407-5978-4688-9015-7bc9d6722780}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <bt:Synchronization>
+      <bt:NodeVersions>
+        <bt:Node uuid="{637fc08d-aa06-4db8-a933-a26d28e77e5e}" lastSeen="2026-08-25T18:50:43.975958Z" />
+      </bt:NodeVersions>
+      <bt:EntityDeletions />
+    </bt:Synchronization>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-04-18T12:34:52Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{d43f6edc-6353-458c-aed4-8ebbe390b3c2}" name="Limites ferradura 20" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-04-18T12:35:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{e2b67823-9d7c-4453-9b4a-e7285f160d24}" name="Ferradura" clientRef="{d43f6edc-6353-458c-aed4-8ebbe390b3c2}" />
+    <rcdsetup:Field lastModified="2026-08-24T17:28:32Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{2bc0375d-0028-41f0-8cec-5916b73afb3b}" name="Th-8-" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{2bc0375d-0028-41f0-8cec-5916b73afb3b}">
+    <CurvedTrackLine lastModified="2026-08-25T12:11:21Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{52e8cd49-8f24-4f9c-8e34-ed27d0bfdd59}" spatialGeometryType="point" fileName="CurveTrack52e8cd49-8f24-4f9c-8e34-ed27d0bfdd59" name="Limite Base">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.356617892378075" south="-15.363734490298315" east="-54.44821184070527" west="-54.469119595519118" />
+      <rcdscbase:vrEastShiftComponent value="0" sourceUOM="mm" variableRepresentation="vrEastShiftComponent" />
+      <rcdscbase:vrNorthShiftComponent value="0" sourceUOM="mm" variableRepresentation="vrNorthShiftComponent" />
+      <rcdscbase:vrReferenceLatitude value="-15.356634738554968" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="-54.44821184070527" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

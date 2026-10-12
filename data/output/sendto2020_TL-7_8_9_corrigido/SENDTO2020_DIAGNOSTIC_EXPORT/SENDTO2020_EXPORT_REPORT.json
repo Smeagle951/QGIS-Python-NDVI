@@ -1,0 +1,118 @@
+{
+  "format": "SendTo2020",
+  "status": "READY_FOR_DEVICE_TEST",
+  "verification_state": "ROUNDTRIP_TESTED",
+  "generated_at": "2026-09-30T17:55:39.132537-04:00",
+  "fields": [
+    {
+      "field_erid": "ef89ccbb-1a43-5257-b139-43d104234af4",
+      "business": "SILVANDRO BARCHET",
+      "farm": "FAZ FERRADURA",
+      "field": "TL - 7-8-9",
+      "source_names": {
+        "business": "SILVANDRO BARCHETT",
+        "farm": "FAZ. FERRADURA",
+        "field": "TL - 7,8,9"
+      },
+      "boundary_source": "EXTERNAL_BOUNDARY",
+      "filename": "TL-7_8_9",
+      "source_crs": "EPSG:4326",
+      "output_crs": "EPSG:4326",
+      "original_vertices": 865,
+      "export_vertices": 865,
+      "original_area_ha": 204.63735477921009,
+      "export_area_ha": 204.63735477921009,
+      "area_difference_percent": 0.0,
+      "simplification_tolerance_m": 0.0,
+      "source_components": 1,
+      "output_feature_count": 1,
+      "roundtrip": {
+        "feature_count": 1,
+        "geometry_type": "Polygon",
+        "crs": "EPSG:4326",
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "attributes": {
+          "Business": "SILVANDRO BARCHET",
+          "Farm": "FAZ FERRADURA",
+          "Field": "TL - 7-8-9",
+          "CODE": "TL - 7-8-9"
+        },
+        "vertex_count": 865,
+        "bbox": [
+          -54.4715974496,
+          -15.364787141800004,
+          -54.436140732830154,
+          -15.353103733748092
+        ],
+        "files": [
+          "TL-7_8_9.shp",
+          "TL-7_8_9.shx",
+          "TL-7_8_9.dbf",
+          "TL-7_8_9.prj",
+          "TL-7_8_9.cpg",
+          "TL-7_8_9.mcd"
+        ],
+        "roundtrip_valid": true
+      }
+    }
+  ],
+  "warnings": [
+    "TL - 7,8,9: Farm normalizado: 'FAZ. FERRADURA' -> 'FAZ FERRADURA'",
+    "TL - 7,8,9: Field normalizado: 'TL - 7,8,9' -> 'TL - 7-8-9'",
+    "TL - 7,8,9: Business igual ao do monitor: 'SILVANDRO BARCHETT' -> 'SILVANDRO BARCHET'"
+  ],
+  "monitor_action_required": [
+    "Importar o arquivo em Setup > Settings > Import Data > Field Boundaries.",
+    "Criar ou selecionar Client, Farm e Field em Setup > Fields.",
+    "Abrir Field Setup > Field Boundary e associar o boundary importado ao talhao.",
+    "Ativar o talhao para exibir o limite e habilitar recursos de headland."
+  ],
+  "monitor_reference": {
+    "roots": [
+      "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1"
+    ],
+    "entries": [
+      {
+        "business": "SILVANDRO BARCHET",
+        "farm": "FAZ FERRADURA",
+        "field": "PV-0140L",
+        "source": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020\\PV-01.dbf"
+      },
+      {
+        "business": "SILVANDRO BARCHET",
+        "farm": "FAZ FERRADURA",
+        "field": "PV-0240L",
+        "source": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020\\PV-02.dbf"
+      },
+      {
+        "business": "SILVANDRO BARCHET",
+        "farm": "FAZ FERRADURA",
+        "field": "PV-0340L",
+        "source": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020\\PV-03.dbf"
+      },
+      {
+        "business": "SILVANDRO BARCHET",
+        "farm": "FAZ FERRADURA",
+        "field": "PV-0440L",
+        "source": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020\\PV-04.dbf"
+      },
+      {
+        "business": "SILVANDRO BARCHET",
+        "farm": "FAZ FERRADURA",
+        "field": "PV-0540L",
+        "source": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020\\PV-05.dbf"
+      },
+      {
+        "business": "SILVANDRO BARCHET",
+        "farm": "FAZ FERRADURA",
+        "field": "PV-0640L",
+        "source": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020\\PV-06.dbf"
+      }
+    ]
+  }
+}

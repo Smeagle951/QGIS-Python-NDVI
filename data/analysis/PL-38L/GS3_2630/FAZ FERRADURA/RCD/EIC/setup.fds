@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetupFile xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns="urn:schemas-johndeere-com:RCD:Setup">
+  <SourceApp major="5" minor="0" build="0" revision="145" nameSourceApp="RCD Target Provider" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" uuidSession="{b4d3bb35-4d1f-49a9-a437-6d115043d215}" />
+  <Setup>
+    <FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="27" />
+      <bt:UnitOfMeasureVersion major="1" minor="51" />
+      <bt:RepresentationSystemVersion major="4" minor="198" />
+    </FileSchemaVersion>
+    <bt:Synchronization>
+      <bt:NodeVersions>
+        <bt:Node uuid="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" lastSeen="2018-08-20T08:49:54.5018064-03:00" />
+      </bt:NodeVersions>
+      <bt:EntityDeletions />
+    </bt:Synchronization>
+    <Participant>
+      <Client lastModified="1970-01-01T00:00:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{4ffd3048-c98f-4c31-8556-25de8b34b060}" name="SILVANDRO BARCHET" />
+    </Participant>
+    <Participant>
+      <Operator lastModified="1970-01-01T00:00:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{e6fd68b6-803d-4888-bb53-76bb78334a3b}" name="Adamastor" />
+    </Participant>
+    <Farm lastModified="2026-09-08T09:53:50.8758504-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}" name="FAZ FERRADURA" clientRef="{4ffd3048-c98f-4c31-8556-25de8b34b060}" />
+    <Field lastModified="2026-09-08T09:53:50.8758569-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{f7274401-6779-4aa1-b655-5f9336430e69}" name="PV-0138L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="153.60232691359073" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-08T09:53:50.8781532-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{22bafbaa-4068-4f8c-9e1f-2abc20e110c8}" name="PV-0238L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="141.07782392958313" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-08T09:53:50.9007445-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{be57bb40-3ee9-4756-afb1-cff7507e9ab9}" name="PV-0338L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="101.79983835793938" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-08T09:53:50.913013-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{c27beffa-051c-415d-9948-a0dd34725dee}" name="PV-0438L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="93.09700742063588" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-08T09:53:50.9187828-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{5c73bceb-7cb1-4442-a8eb-03e68a10a55c}" name="PV-0538L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="168.8602798008958" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-08T09:53:50.9234809-04:00" sourceNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" erid="{e847e976-b992-4672-a234-67f2a031c919}" name="PV-0638L" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="166.12787431268077" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Products />
+    <MachineType lastModified="2008-09-17T12:57:34.3-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{d8dce5b0-cc8d-4c34-afac-27d93793bd86}" name="Combine" refID="3">
+      <ImplementTypeRef eridRef="{d3c71163-9e1f-44db-842d-6e91e2936a2e}" />
+      <ImplementTypeRef eridRef="{d649e05f-e784-42e8-ac90-498077d9b5dc}" />
+      <ImplementTypeRef eridRef="{80b8206e-5094-4a3b-88ea-e2f775f41ba1}" />
+      <ImplementTypeRef eridRef="{d9d1c11f-35e0-43af-84ae-696d9ea3c18b}" />
+      <ImplementTypeRef eridRef="{d2b57f21-0410-4a57-91b5-5f81c1189465}" />
+      <ImplementTypeRef eridRef="{c2ceac69-f304-4496-a09b-c623174524ff}" />
+      <ImplementTypeRef eridRef="{b46bdfd3-bea1-44b2-ba4a-3b59014ca297}" />
+      <ImplementTypeRef eridRef="{12feed97-18c3-430f-b20a-c0e20af914da}" />
+      <ImplementTypeRef eridRef="{567d155d-8a20-4955-90d9-e1698aafacba}" />
+      <ImplementTypeRef eridRef="{247a0ada-8f4a-4cca-9a57-ffbc8ed83c26}" />
+      <ImplementTypeRef eridRef="{392661ef-7ad2-46fc-aca8-1786e2c839a0}" />
+    </MachineType>
+    <MachineType lastModified="2008-09-17T12:57:34.4-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{574705bc-c7d5-4a07-9501-5515d02268ec}" name="Cotton Picker" refID="5">
+      <ImplementTypeRef eridRef="{770a906d-84e4-4977-b444-3b6a76054152}" />
+    </MachineType>
+    <MachineType lastModified="2008-09-17T12:57:34.5-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{5758b5fd-f224-4344-bfae-c219631f1006}" name="Cotton Stripper" refID="6">
+      <ImplementTypeRef eridRef="{e09f503b-31b0-481c-8d4d-6c5bca4f33c2}" />
+    </MachineType>
+    <MachineType lastModified="2008-09-17T12:57:35.1-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{502355a9-53fa-4b08-99e6-ec1f5aefab31}" name="Other" refID="9">
+      <ImplementTypeRef eridRef="{bcb321b9-521d-4761-9e64-f59816a2ab6b}" />
+    </MachineType>
+    <MachineType lastModified="2010-02-02T20:41:53.310554-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{54020ebb-def8-4f36-8a0c-6f713a3f9868}" name="Pickup Truck" refID="8">
+      <ImplementTypeRef eridRef="{242a1d81-254d-4223-bd76-abd3c330f2fc}" />
+      <ImplementTypeRef eridRef="{bcb321b9-521d-4761-9e64-f59816a2ab6b}" />
+    </MachineType>
+    <MachineType lastModified="2009-04-16T12:57:35.1-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{99edf0e0-4abb-42d3-9798-327439a39c38}" name="Forage Harvester" refID="4">
+      <ImplementTypeRef eridRef="{80b8206e-5094-4a3b-88ea-e2f775f41ba1}" />
+      <ImplementTypeRef eridRef="{7554e347-51f5-4656-9a00-17acb231df83}" />
+      <ImplementTypeRef eridRef="{06be888a-a8db-480f-b6cb-196418eeea68}" />
+      <ImplementTypeRef eridRef="{f2fde3e1-5e6c-4fc9-94a4-4b99c3e2548e}" />
+    </MachineType>
+    <MachineType lastModified="2008-09-17T12:57:34.5-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{6cf945ec-9e62-4bcc-a402-41d917bd906c}" name="Sprayer" refID="2">
+      <ImplementTypeRef eridRef="{1e187f19-658c-4168-93fa-a1bd4cf86424}" />
+      <ImplementTypeRef eridRef="{242a1d81-254d-4223-bd76-abd3c330f2fc}" />
+    </MachineType>
+    <MachineType lastModified="2008-09-17T12:57:34.6-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{82115264-9385-460c-bfbe-177a59445fd9}" name="Tractor" refID="1">
+      <ImplementTypeRef eridRef="{da444c99-a25f-4a8e-99b0-925b4071c601}" />
+      <ImplementTypeRef eridRef="{c19852e3-5acd-43bd-aa6f-8e536ce55275}" />
+      <ImplementTypeRef eridRef="{cd805caf-9b07-4943-8ddb-4d46fe4a306a}" />
+      <ImplementTypeRef eridRef="{a29fb2e7-c75d-4521-91fa-c9a4311c5f53}" />
+      <ImplementTypeRef eridRef="{ae8c6cea-303d-4c42-a5ac-dfdce93ccaa6}" />
+      <ImplementTypeRef eridRef="{001a5c0f-6f9a-4ee9-b885-c8ec9766bb40}" />
+      <ImplementTypeRef eridRef="{f786c5c1-969d-45b6-8719-f2fba4ce1c53}" />
+      <ImplementTypeRef eridRef="{1e187f19-658c-4168-93fa-a1bd4cf86424}" />
+      <ImplementTypeRef eridRef="{bcb321b9-521d-4761-9e64-f59816a2ab6b}" />
+      <ImplementTypeRef eridRef="{42b8651c-589b-446c-8bff-a5d8056cb9f8}" />
+      <ImplementTypeRef eridRef="{5373b15d-7366-4305-ae7d-9392f05b4b08}" />
+      <ImplementTypeRef eridRef="{66c0d7ae-a13f-4184-b6c8-fc33ff9cca54}" />
+      <ImplementTypeRef eridRef="{643e2308-7c81-4078-9b28-af60a4c4d9d9}" />
+      <ImplementTypeRef eridRef="{bc43b404-cc50-41bf-9c44-a675545f72a1}" />
+    </MachineType>
+    <MachineType lastModified="2008-09-17T12:57:35-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{a00ac8a0-7f2f-4c5f-b156-dc8982cf9040}" name="Utility Vehicle" refID="7">
+      <ImplementTypeRef eridRef="{242a1d81-254d-4223-bd76-abd3c330f2fc}" />
+      <ImplementTypeRef eridRef="{bcb321b9-521d-4761-9e64-f59816a2ab6b}" />
+    </MachineType>
+    <MachineType lastModified="2009-07-22T20:09:30.2095723-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{4086adbf-7255-44e0-81ba-71194737fb7c}" name="Cane Harvester" refID="10">
+      <ImplementTypeRef eridRef="{40686885-89b1-4ba6-a0ca-c64cf1c680ac}" />
+    </MachineType>
+    <ImplementType lastModified="2008-09-17T12:57:35.1-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{66c0d7ae-a13f-4184-b6c8-fc33ff9cca54}" name="Air Cart" refID="2" />
+    <ImplementType lastModified="2011-01-03T15:04:31.0585166-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{bc43b404-cc50-41bf-9c44-a675545f72a1}" name="Baler" refID="30" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{d3c71163-9e1f-44db-842d-6e91e2936a2e}" name="Belt Pickup" refID="10" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{242a1d81-254d-4223-bd76-abd3c330f2fc}" name="Boom" refID="3" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{d9d1c11f-35e0-43af-84ae-696d9ea3c18b}" name="Corn Head" refID="8" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{d649e05f-e784-42e8-ac90-498077d9b5dc}" name="Draper" refID="11" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{1e187f19-658c-4168-93fa-a1bd4cf86424}" name="Dry Spreader" refID="5" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{f786c5c1-969d-45b6-8719-f2fba4ce1c53}" name="Grain Drill" refID="6" />
+    <ImplementType lastModified="2008-09-17T12:57:35.9-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{42b8651c-589b-446c-8bff-a5d8056cb9f8}" name="Rotary Ditcher" refID="20" />
+    <ImplementType lastModified="2010-02-02T20:41:53.044929-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{d2b57f21-0410-4a57-91b5-5f81c1189465}" name="Row Crop Head" refID="9" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{7554e347-51f5-4656-9a00-17acb231df83}" name="Row Dependent" refID="13" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{06be888a-a8db-480f-b6cb-196418eeea68}" name="Row Independent" refID="14" />
+    <ImplementType lastModified="2011-08-30T18:38:14.4105963-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{40686885-89b1-4ba6-a0ca-c64cf1c680ac}" name="Cane Harvester" refID="32" />
+    <ImplementType lastModified="2011-08-30T18:38:14.5646052-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{770a906d-84e4-4977-b444-3b6a76054152}" name="Cotton Picker" refID="33" />
+    <ImplementType lastModified="2011-08-30T18:38:14.5696054-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{e09f503b-31b0-481c-8d4d-6c5bca4f33c2}" name="Cotton Stripper" refID="31" />
+    <ImplementType lastModified="2008-09-17T12:57:35.9-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{ae8c6cea-303d-4c42-a5ac-dfdce93ccaa6}" name="Liquid Fert. Tool" refID="17" />
+    <ImplementType lastModified="2008-09-17T12:57:35.9-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{001a5c0f-6f9a-4ee9-b885-c8ec9766bb40}" name="NH3 Tool" refID="18" />
+    <ImplementType lastModified="2008-09-17T12:57:35.9-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{bcb321b9-521d-4761-9e64-f59816a2ab6b}" name="Other" refID="22" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{f2fde3e1-5e6c-4fc9-94a4-4b99c3e2548e}" name="Pickup" refID="15" />
+    <ImplementType lastModified="2008-09-17T12:57:35.3-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{da444c99-a25f-4a8e-99b0-925b4071c601}" name="Planter" refID="1" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{80b8206e-5094-4a3b-88ea-e2f775f41ba1}" name="Platform" refID="12" />
+    <ImplementType lastModified="2012-01-19T18:39:00-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{e28f2723-b5d8-449a-a0c2-838aa20dd292}" name="Row Units" refID="16" />
+    <ImplementType lastModified="2008-09-17T12:57:35.9-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{5373b15d-7366-4305-ae7d-9392f05b4b08}" name="Scraper" refID="21" />
+    <ImplementType lastModified="2008-09-17T12:57:35.1-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{c19852e3-5acd-43bd-aa6f-8e536ce55275}" name="Seeder" refID="19" />
+    <ImplementType lastModified="2008-09-17T12:57:35.8-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{a29fb2e7-c75d-4521-91fa-c9a4311c5f53}" name="Pull Behind Sprayer" refID="4" />
+    <ImplementType lastModified="2008-09-17T12:57:35.7-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{cd805caf-9b07-4943-8ddb-4d46fe4a306a}" name="Tillage" refID="7" />
+    <ImplementType lastModified="2009-07-22T20:09:30.0064421-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{643e2308-7c81-4078-9b28-af60a4c4d9d9}" name="Cart" refID="23" />
+    <ImplementType lastModified="2010-02-02T20:41:52.779304-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{c2ceac69-f304-4496-a09b-c623174524ff}" name="Chopping Corn Head" refID="24" />
+    <ImplementType lastModified="2010-02-02T20:41:52.998054-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{567d155d-8a20-4955-90d9-e1698aafacba}" name="Flex Platform" refID="27" />
+    <ImplementType lastModified="2010-02-02T20:41:52.998054-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{12feed97-18c3-430f-b20a-c0e20af914da}" name="Flexible Draper" refID="26" />
+    <ImplementType lastModified="2010-02-02T20:41:52.998054-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{247a0ada-8f4a-4cca-9a57-ffbc8ed83c26}" name="Hydraflex Platform" refID="28" />
+    <ImplementType lastModified="2010-02-02T20:41:53.044929-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{b46bdfd3-bea1-44b2-ba4a-3b59014ca297}" name="Rigid Platform" refID="25" />
+    <ImplementType lastModified="2010-02-02T20:41:53.091804-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{392661ef-7ad2-46fc-aca8-1786e2c839a0}" name="Unknown Head" refID="29" />
+    <Equipment>
+      <Implement lastModified="2013-04-09T17:33:37.0026822-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{775ef226-80b5-4d68-8842-0c54a63b4b3e}" name="sdr" serialNumber="001" ISONAME="ISOSeeder" implementTypeRef="{c19852e3-5acd-43bd-aa6f-8e536ce55275}">
+        <ImplementDefinition>
+          <ImplementSwathSettings>
+            <LookAheadTimes ISOName="Swath_ISOName_1" TankName="Swath_TankName_1" ConfigName="Swath_ConfigName_1">
+              <vrLookAheadOnTime value="3" sourceUOM="sec" variableRepresentation="vrLookAheadTime" />
+              <vrLookAheadOffTime value="4" sourceUOM="sec" variableRepresentation="vrLookAheadTime" />
+              <dtOperationClass value="dtiSeeding" definedTypeRepresentation="dtOperationClass" />
+            </LookAheadTimes>
+          </ImplementSwathSettings>
+        </ImplementDefinition>
+      </Implement>
+      <Machine lastModified="2013-04-09T17:33:36.9556795-03:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{43eaa1c2-1e23-4f35-9642-7959e3b514d0}" name="1999" serialNumber="tcr01" machineTypeRef="{82115264-9385-460c-bfbe-177a59445fd9}">
+        <MachineDefinition>
+          <MachineSettings>
+            <dtHitchType value="dtiThreePoint" definedTypeRepresentation="dtHitchType" />
+            <Offsets>
+              <vrReceiverOffset value="9.5" sourceUOM="in" variableRepresentation="vrReceiverOffset" />
+              <vrGPSToNonSteeringAxleOffset value="4.7" sourceUOM="in" variableRepresentation="vrGPSToNonSteeringAxleOffset" />
+              <dtNonSteeringAxleLocation value="dtiRearAxle" definedTypeRepresentation="dtNonSteeringAxleLocation" />
+            </Offsets>
+          </MachineSettings>
+          <MachineAutomationSettings turnSensitivity="70">
+            <vrTurnRadius value="25" sourceUOM="ft" variableRepresentation="vrMachineTurnRadius" />
+          </MachineAutomationSettings>
+        </MachineDefinition>
+      </Machine>
+    </Equipment>
+    <MachineModel lastModified="2011-01-04T19:28:29.8907395-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{5c3cab35-9829-42fe-932f-5c8b3331a8e4}" name="9x30T" machineTypeRef="{82115264-9385-460c-bfbe-177a59445fd9}" machineModelId="0" />
+    <ImplementModel lastModified="2011-01-04T19:28:29.5469917-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{90c0810f-f492-485b-8ce3-179a8be45fbe}" name="2410 Chisel Plow" implementTypeRef="{cd805caf-9b07-4943-8ddb-4d46fe4a306a}" implementModelId="0" />
+    <ImplementModel lastModified="2011-01-04T19:28:29.3907427-02:00" sourceNode="{7231b635-73c2-4c8c-a8d5-cde13384b84c}" erid="{d143fca4-bad0-4281-b53e-8f93becd1230}" name="1770NT" implementTypeRef="{da444c99-a25f-4a8e-99b0-925b4071c601}" implementModelId="0" />
+  </Setup>
+</SetupFile>

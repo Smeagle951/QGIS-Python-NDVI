@@ -1,0 +1,5 @@
+﻿<Columns>
+<Column  Key='Business' Name='Business' DataType='8' Width='32' DataUse='8' DataScope='1' Selected='False' />
+<Column  Key='Farm' Name='Farm' DataType='8' Width='32' DataUse='8' DataScope='1' Selected='False' />
+<Column  Key='Field' Name='Field' DataType='8' Width='32' DataUse='8' DataScope='1' Selected='False' />
+</Columns>

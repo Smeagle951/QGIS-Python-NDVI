@@ -1,0 +1,26 @@
+{
+  "format": "SendTo2020",
+  "target": "Precision Planting 20|20",
+  "generated_at": "2026-09-30T17:55:39.125110-04:00",
+  "rule": "EXTERNAL_BOUNDARY_ONLY",
+  "fields": [
+    {
+      "field_erid": "ef89ccbb-1a43-5257-b139-43d104234af4",
+      "business": "SILVANDRO BARCHETT",
+      "farm": "FAZ. FERRADURA",
+      "field": "TL - 7,8,9",
+      "detected": {
+        "EXTERNAL_BOUNDARY": 1
+      },
+      "included": {
+        "EXTERNAL_BOUNDARY": 1
+      },
+      "skipped": {}
+    }
+  ],
+  "totals": {
+    "fields": 1,
+    "external_boundaries_included": 1,
+    "skipped_by_role": {}
+  }
+}

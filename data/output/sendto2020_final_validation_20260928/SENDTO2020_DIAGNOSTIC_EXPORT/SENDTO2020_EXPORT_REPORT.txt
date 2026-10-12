@@ -1,0 +1,5 @@
+FortSmart SendTo2020 Export Report
+Status: READY_FOR_DEVICE_TEST
+Verification: ROUNDTRIP_TESTED
+Fields: 1
+- TL-12: 1026 vertices, area diff 0.000239%

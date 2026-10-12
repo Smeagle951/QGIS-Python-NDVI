@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rcdscfld:SpatialCatalog xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:rcdscfld="urn:schemas-johndeere-com:RCD:SpatialCatalog:Field">
+  <rcdscfld:FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="3" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </rcdscfld:FileSchemaVersion>
+  <rcdscfld:SourceApp major="3" minor="0" build="0" revision="117" nameSourceApp="RCD Target Provider" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{6a6f41f7-9f44-4174-8168-0cb0ef0842d4}" uuidSession="{1b5109f8-f55c-4c49-95b7-fb583cd6b926}" />
+  <rcdscfld:SpatialItems eridFieldRef="{c27beffa-051c-415d-9948-a0dd34725dee}" />
+</rcdscfld:SpatialCatalog>

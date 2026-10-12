@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>AgGateway.ADAPT.TestUtilities</AssemblyName>
+    <RootNamespace>AgGateway.ADAPT.TestUtilities</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Datacards\agco c100 tc &amp; jd sprayer 900-short.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Datacards\agco c100 tc &amp; jd sprayer 900.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Datacards\Agco-MicroTrak.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Datacards\KV.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

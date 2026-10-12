@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldflag:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:Representation="urn:schemas-johndeere-com:Representation" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldflag="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldFlags">
+  <rcdscfldflag:FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="1" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </rcdscfldflag:FileSchemaVersion>
+  <rcdscfldflag:SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="RCD Target Provider" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{95d11ca2-208f-4fe0-a7c2-3e7fd42bbfb6}" />
+  <rcdscfldflag:Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <bt:Synchronization>
+      <bt:NodeVersions>
+        <bt:Node uuid="{045f281e-db82-4e7f-9b01-4231be89e50d}" lastSeen="2026-08-25T16:46:52.897885Z" />
+      </bt:NodeVersions>
+      <bt:EntityDeletions />
+    </bt:Synchronization>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-04-18T12:34:52Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{d43f6edc-6353-458c-aed4-8ebbe390b3c2}" name="Limites ferradura 20" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-04-18T12:35:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{e2b67823-9d7c-4453-9b4a-e7285f160d24}" name="Ferradura" clientRef="{d43f6edc-6353-458c-aed4-8ebbe390b3c2}" />
+    <rcdsetup:Field lastModified="2026-08-25T13:17:51Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{07d695c2-d563-4d15-a3a2-72262b8a9186}" name="Th-11" farmRef="{e2b67823-9d7c-4453-9b4a-e7285f160d24}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+    <rcdsetup:FlagTypes>
+      <rcdsetup:NamedFlagType lastModified="2008-09-17T10:57:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{688c20bb-9609-4590-95c9-649ba65c06df}" name="Pedras" />
+      <rcdsetup:NamedFlagType lastModified="2008-09-17T10:57:52Z" sourceNode="{e2fddae0-3c59-42c6-bfd8-ed50d027cf5d}" erid="{186b9781-04e3-4c8a-a872-fe9fa1493914}" name="Ervas daninhas" />
+      <rcdsetup:NamedFlagType lastModified="2026-04-18T14:34:52Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{7507a05b-e6e9-4878-818f-4cbef271c7ab}" name="Ventosa" />
+      <rcdsetup:NamedFlagType lastModified="2026-04-18T14:35:09Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{bac01d24-edb6-41ef-85a5-8e821f34d324}" name="Base pivo" />
+      <rcdsetup:NamedFlagType lastModified="2026-08-24T17:29:49Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{b30ee009-3c4e-4b6f-8390-31923c125849}" name="Poste-rede" />
+      <rcdsetup:NamedFlagType lastModified="2026-08-24T17:41:22Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{dca800c6-77f1-4900-a682-351ac340b9bc}" name="Limite-estrada-pv" />
+    </rcdsetup:FlagTypes>
+  </rcdscfldflag:Setup>
+  <rcdscfldflag:SpatialItems eridFieldRef="{07d695c2-d563-4d15-a3a2-72262b8a9186}">
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:24:58Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{01e135f3-2109-4df7-8a02-7f438fac0380}" spatialGeometryType="point" fileName="Flag01e135f3-2109-4df7-8a02-7f438fac0380" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{02817e91-53b7-47c9-b9b5-735514a9d465}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.339963144921875" south="-15.340006401562515" east="-54.454592678906259" west="-54.45464626054688" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:21:51Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{b41760cf-3f7a-438f-ac85-29d602af8dfd}" spatialGeometryType="point" fileName="Flagb41760cf-3f7a-438f-ac85-29d602af8dfd" eridFlagTypeRef="{dca800c6-77f1-4900-a682-351ac340b9bc}" session="{86e34a80-d71b-4c7d-879e-a906b52d6c21}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.338609125390633" south="-15.346136708593761" east="-54.454928344140626" west="-54.457959694531255" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:23:55Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{d28b4b86-6f11-40d5-a1d6-2536b05b7d28}" spatialGeometryType="point" fileName="Flagd28b4b86-6f11-40d5-a1d6-2536b05b7d28" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{b3e3c3fd-dd85-4408-9cbd-0a2bd69454dc}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.339753017187496" south="-15.339805057812507" east="-54.455747555078119" west="-54.455801345312516" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:27:43Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{05a43743-d5eb-4094-bcf3-c19395a1828e}" spatialGeometryType="point" fileName="Flag05a43743-d5eb-4094-bcf3-c19395a1828e" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{dea14ea3-39f1-4ee2-87d5-d8cda06cccec}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.340590220703127" south="-15.340612391406248" east="-54.451227978515639" west="-54.451240363281265" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:26:48Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{b3e56562-c261-4727-a881-e97759fce588}" spatialGeometryType="point" fileName="Flagb3e56562-c261-4727-a881-e97759fce588" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{04b0a8ca-bef4-4c41-82b5-fdac20df8a2d}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.340378758203121" south="-15.340428750000012" east="-54.452329937500018" west="-54.45235514375" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:27:00Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{9fc9b2ac-f2e7-41bc-b1f7-a81fc0fd12b3}" spatialGeometryType="point" fileName="Flag9fc9b2ac-f2e7-41bc-b1f7-a81fc0fd12b3" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{dd4b810f-1936-42f8-a948-5f716ac7b288}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.340396857031251" south="-15.340422555078137" east="-54.45233658789062" west="-54.452379951562506" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:25:48Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{4b061420-d1d2-48c9-ad23-5d6662d0b404}" spatialGeometryType="point" fileName="Flag4b061420-d1d2-48c9-ad23-5d6662d0b404" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{611dc6d7-8029-4ec1-8f59-abb28250499d}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.340167701171893" south="-15.340223728515642" east="-54.453469101171876" west="-54.45349854531252" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:22:57Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{ac90df01-a431-4c57-80a6-e188c4ba0bc7}" spatialGeometryType="point" fileName="Flagac90df01-a431-4c57-80a6-e188c4ba0bc7" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{21aa1a68-caed-436b-a3b3-7d896228288c}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.339530932421898" south="-15.339588183203134" east="-54.456914278124991" west="-54.45696438125" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:27:58Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{55ceede2-0240-4987-9f26-15329b9714ce}" spatialGeometryType="point" fileName="Flag55ceede2-0240-4987-9f26-15329b9714ce" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{8ca0c732-a6b2-48bc-9813-3c71bff7ea59}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.340610463671872" south="-15.340624322656247" east="-54.451232324218758" west="-54.451281803906248" />
+    </rcdscfldflag:FlagSessionLayer>
+    <rcdscfldflag:FlagSessionLayer lastModified="2026-08-25T13:25:59Z" sourceNode="{97d188e5-7cf7-4c8e-be63-a7c0b83e5438}" erid="{bf1e7e23-95dd-493e-8ab0-68da775d938e}" spatialGeometryType="point" fileName="Flagbf1e7e23-95dd-493e-8ab0-68da775d938e" eridFlagTypeRef="{b30ee009-3c4e-4b6f-8390-31923c125849}" session="{6a988e7b-12b9-464a-aa0b-355dc823728d}" flagMode="line" widthDataPlaneID="Width">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.340197969531266" south="-15.340214162890645" east="-54.453475966015617" west="-54.453518977734376" />
+    </rcdscfldflag:FlagSessionLayer>
+  </rcdscfldflag:SpatialItems>
+</rcdscfldflag:SpatialCatalog>

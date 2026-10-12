@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ISO11783_TaskData VersionMajor="4" VersionMinor="3" ManagementSoftwareManufacturer="Test" ManagementSoftwareVersion="1.0" DataTransferOrigin="1">
+  <CTR A="Fazenda Teste" B="Fazenda Teste" I="CTR0001"/>
+  <FRM A="Unidade 1" B="Unidade 1" C="CTR0001" I="FRM0001"/>
+  <PFD A="1" C="Talhao Norte" D="0" E="CTR0001" F="FRM0001" I="PFD0001">
+    <PLN A="1" B="Limite principal" C="0" I="PLN0001">
+      <LSG A="1" B="1" C="1">
+        <PNT A="2" B="1" C="-15.380000" D="-54.460000"/>
+        <PNT A="2" B="2" C="-15.380000" D="-54.450000"/>
+        <PNT A="2" B="3" C="-15.390000" D="-54.450000"/>
+        <PNT A="2" B="4" C="-15.390000" D="-54.460000"/>
+        <PNT A="2" B="5" C="-15.380000" D="-54.460000"/>
+      </LSG>
+    </PLN>
+    <GGP A="1" B="Linha AB 1" G="GGP0001">
+      <GPN A="1" B="Linha AB 1" C="1" G="GPN0001">
+        <LSG A="5" B="1" C="1">
+          <PNT A="2" B="1" C="-15.385000" D="-54.458000"/>
+          <PNT A="2" B="2" C="-15.385000" D="-54.452000"/>
+        </LSG>
+      </GPN>
+    </GGP>
+    <GGP A="2" B="Curva plantio" G="GGP0002">
+      <GPN A="2" B="Curva plantio" C="3" G="GPN0002">
+        <LSG A="5" B="1" C="2">
+          <PNT A="2" B="1" C="-15.386000" D="-54.458000"/>
+          <PNT A="2" B="2" C="-15.387000" D="-54.456000"/>
+          <PNT A="2" B="3" C="-15.388000" D="-54.454000"/>
+          <PNT A="2" B="4" C="-15.389000" D="-54.452000"/>
+        </LSG>
+      </GPN>
+    </GGP>
+    <PNT A="7" B="Marca referencia" C="-15.382000" D="-54.455000"/>
+    <PLN A="6" B="Obstaculo" C="0" I="PLN0002">
+      <LSG A="1" B="1" C="2">
+        <PNT A="2" B="1" C="-15.383000" D="-54.456000"/>
+        <PNT A="2" B="2" C="-15.383000" D="-54.455000"/>
+        <PNT A="2" B="3" C="-15.384000" D="-54.455000"/>
+        <PNT A="2" B="4" C="-15.384000" D="-54.456000"/>
+        <PNT A="2" B="5" C="-15.383000" D="-54.456000"/>
+      </LSG>
+    </PLN>
+  </PFD>
+</ISO11783_TaskData>

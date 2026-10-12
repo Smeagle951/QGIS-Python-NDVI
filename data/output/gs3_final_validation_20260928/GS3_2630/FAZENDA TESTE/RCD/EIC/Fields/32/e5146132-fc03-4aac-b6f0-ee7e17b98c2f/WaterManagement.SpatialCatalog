@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldiewm:SpatialCatalog xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:rcdscfldiewm="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExportWaterManagment">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{268cd28e-59eb-48eb-97f5-3a027a260299}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-09-28T23:21:21.514Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{892d3171-14ec-58fd-bed3-d2907eca3e33}" name="PROPRIETARIO TESTE" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-09-28T23:21:21.514Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{48bf2bb6-318a-526a-8256-e25a60a6a4d0}" name="FAZENDA TESTE" clientRef="{892d3171-14ec-58fd-bed3-d2907eca3e33}" />
+    <rcdsetup:Field lastModified="2026-09-28T23:21:21.514Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{e5146132-fc03-4aac-b6f0-ee7e17b98c2f}" name="TL-12" farmRef="{48bf2bb6-318a-526a-8256-e25a60a6a4d0}">
+      <rcdsetup:Area value="120.514119100554" sourceUOM="ha" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{e5146132-fc03-4aac-b6f0-ee7e17b98c2f}" />
+</rcdscfldiewm:SpatialCatalog>

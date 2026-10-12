@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{80903808-b6c6-419e-9445-47fb4ff03f4f}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-08-27T00:01:08.889Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{28fbaacf-a852-4202-bf54-37837cdbf942}" name="SILVANDRO BARCHET(1)" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-08-27T00:01:08.889Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{27a4023c-000d-4ac9-b188-551d5aefe977}" name="FAZ FERRADURA" clientRef="{28fbaacf-a852-4202-bf54-37837cdbf942}" />
+    <rcdsetup:Field lastModified="2026-08-27T00:01:08.889Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{62371371-3800-40b2-b4f7-74bc2bcc3601}" name="Thalhao 13" farmRef="{27a4023c-000d-4ac9-b188-551d5aefe977}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{62371371-3800-40b2-b4f7-74bc2bcc3601}">
+    <ABLine lastModified="2026-08-27T00:01:08.889Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{5eac96b5-69e4-4271-9079-7f5ee66ac370}" name="B 13" active="false">
+      <rcdscbase:APoint latitude="15.3511421" longitude="54.44469147" />
+      <rcdscbase:BPoint latitude="15.351167993063056" longitude="54.44468175787765" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:01:08.889Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{2806bd8c-63af-4d01-b61f-4c4f522203dc}" name="Pista de orientação" active="false">
+      <rcdscbase:APoint latitude="15.3368275" longitude="54.43778499" />
+      <rcdscbase:BPoint latitude="15.33671122" longitude="54.43698578" />
+    </ABLine>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

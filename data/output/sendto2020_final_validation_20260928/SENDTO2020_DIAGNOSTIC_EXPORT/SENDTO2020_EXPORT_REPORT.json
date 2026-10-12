@@ -1,0 +1,60 @@
+{
+  "format": "SendTo2020",
+  "status": "READY_FOR_DEVICE_TEST",
+  "verification_state": "ROUNDTRIP_TESTED",
+  "generated_at": "2026-09-28T19:47:47.477351-04:00",
+  "fields": [
+    {
+      "field_erid": "sendto2020-validation-field",
+      "business": "VALIDACAO FORTSMART",
+      "farm": "FAZENDA TESTE",
+      "field": "TL-12",
+      "boundary_source": "EXTERNAL_BOUNDARY",
+      "filename": "TL-12",
+      "source_crs": "EPSG:4326",
+      "output_crs": "EPSG:4326",
+      "original_vertices": 461569,
+      "export_vertices": 1026,
+      "original_area_ha": 545.2001350987132,
+      "export_area_ha": 545.2014380430052,
+      "area_difference_percent": 0.00023898458715514522,
+      "simplification_tolerance_m": 0.05,
+      "source_components": 1,
+      "output_feature_count": 1,
+      "roundtrip": {
+        "feature_count": 1,
+        "geometry_type": "Polygon",
+        "crs": "EPSG:4326",
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "attributes": {
+          "Business": "VALIDACAO FORTSMART",
+          "Farm": "FAZENDA TESTE",
+          "Field": "TL-12",
+          "CODE": "TL-12"
+        },
+        "vertex_count": 1026,
+        "bbox": [
+          -55.01201288069995,
+          -12.012012883788378,
+          -54.98798709110606,
+          -11.987987114697312
+        ],
+        "files": [
+          "TL-12.shp",
+          "TL-12.shx",
+          "TL-12.dbf",
+          "TL-12.prj",
+          "TL-12.cpg",
+          "TL-12.mcd"
+        ],
+        "roundtrip_valid": true
+      }
+    }
+  ],
+  "warnings": []
+}

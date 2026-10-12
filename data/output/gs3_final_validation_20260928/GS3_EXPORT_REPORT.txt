@@ -1,0 +1,15 @@
+GS3 EXPORT REPORT
+
+Field: TL-12
+Area: 120.5141 ha
+Boundary original vertices: 5
+Boundary export vertices: 5
+Boundary area difference: 0.000000%
+Boundary tolerance: 0.00 m
+
+HeadLand: 1
+Internal Boundaries: 1
+Guidance: 1
+Template: VALID
+UUIDs: VALID
+Status: ROUNDTRIP_TESTED

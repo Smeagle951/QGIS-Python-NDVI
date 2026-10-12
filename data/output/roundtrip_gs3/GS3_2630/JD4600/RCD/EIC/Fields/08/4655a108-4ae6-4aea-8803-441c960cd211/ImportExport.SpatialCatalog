@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{745aae65-7046-4427-9ddd-f51ef5f67b6d}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-08-27T00:54:25.200Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{8d28a024-8db8-4d42-977f-ee84ef6a75a9}" name="SILVANDRO BARCHET(1)" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-08-27T00:54:25.200Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{62ab74b2-a0d2-4a1f-b9eb-ed7c1aa4c96a}" name="FAZ FERRADURA" clientRef="{8d28a024-8db8-4d42-977f-ee84ef6a75a9}" />
+    <rcdsetup:Field lastModified="2026-08-27T00:54:25.200Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4655a108-4ae6-4aea-8803-441c960cd211}" name="PV-01_30l" farmRef="{62ab74b2-a0d2-4a1f-b9eb-ed7c1aa4c96a}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{4655a108-4ae6-4aea-8803-441c960cd211}">
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{c352ff15-5da9-46d5-8cdd-ea14c45701fe}" name="Pista de orientaç(6)" active="false">
+      <rcdscbase:APoint latitude="-15.31633059" longitude="-54.4248524" />
+      <rcdscbase:BPoint latitude="-15.32081637" longitude="-54.42775786" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{c767c616-f66e-4852-ac39-5ad8ce121116}" name="Pista de orientaç(1)" active="false">
+      <rcdscbase:APoint latitude="-15.32412964" longitude="-54.42635129" />
+      <rcdscbase:BPoint latitude="-15.32386201" longitude="-54.42626376" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{19c6b6c6-5d05-4590-bc56-3bc39d8cfa6f}" name="Pista de orientaç(5)" active="false">
+      <rcdscbase:APoint latitude="-15.31113454" longitude="-54.43169845" />
+      <rcdscbase:BPoint latitude="-15.31147931" longitude="-54.43168539" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{7aa2fb5c-6bd6-4e45-bbfb-885f148a9274}" name="Pista de orientaç(4)" active="false">
+      <rcdscbase:APoint latitude="-15.32335967" longitude="-54.43508827" />
+      <rcdscbase:BPoint latitude="-15.32284446" longitude="-54.43443972" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{3cb3db51-0ef8-470a-ae33-99d5d7ef3f17}" name="Pista de orientação" active="false">
+      <rcdscbase:APoint latitude="-15.3252882" longitude="-54.42685409" />
+      <rcdscbase:BPoint latitude="-15.32517023" longitude="-54.42717988" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4a91a948-248b-4793-9caa-a0955763bbb8}" name="Pista de orientaç(3)" active="false">
+      <rcdscbase:APoint latitude="-15.3230897" longitude="-54.44121696" />
+      <rcdscbase:BPoint latitude="-15.31149298" longitude="-54.43509782" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{bd5469ba-3cd5-4f76-b3db-dd6246960634}" name="Pista de orientaç(2)" active="false">
+      <rcdscbase:APoint latitude="-15.32632153" longitude="-54.42709492" />
+      <rcdscbase:BPoint latitude="-15.32622894" longitude="-54.42737146" />
+    </ABLine>
+    <CurvedTrackLine lastModified="2026-08-27T00:54:25.190Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{892e517f-13f2-49ef-a22c-ae83d85bada9}" spatialGeometryType="point" fileName="CurveTrack892e517f-13f2-49ef-a22c-ae83d85bada9" name="BORDADURA">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="0.004227481418949353" south="-0.008179678537821644" east="2.409592525509652e-10" west="-0.012459903487574309" />
+      <rcdscbase:vrReferenceLatitude value="-0.003973855805361026" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="-9.986444787557502e-06" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+    <CurvedTrackLine lastModified="2026-08-27T00:54:25.193Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{7a27b00e-9de1-47a0-9d21-e26d68741a4a}" spatialGeometryType="point" fileName="CurveTrack7a27b00e-9de1-47a0-9d21-e26d68741a4a" name="SOMENTE PL30L">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="0.0016052187542019425" south="-0.0082730600355152" east="0.00951624804849871" west="-0.0016492000658416828" />
+      <rcdscbase:vrReferenceLatitude value="1.3489462144633535e-05" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="6.113162518772697e-05" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+    <CurvedTrackLine lastModified="2026-08-27T00:54:25.194Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ba89a5ef-363e-408e-a62a-1cf564c4c061}" spatialGeometryType="point" fileName="CurveTrackba89a5ef-363e-408e-a62a-1cf564c4c061" name="INTERCALADA">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="0.008252224080028014" south="7.654546188007316e-07" east="0.013157735865796383" west="-0.00029404069643845787" />
+      <rcdscbase:vrReferenceLatitude value="1.502408176179415e-05" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+      <rcdscbase:vrReferenceLongitude value="6.808977575900599e-05" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+    </CurvedTrackLine>
+    <Boundary lastModified="2026-08-27T00:54:25.198Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{{61673574-54e8-4190-a3c4-7af1f1f00834}}" spatialGeometryType="polygon" fileName="Boundary61673574-54e8-4190-a3c4-7af1f1f00834">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="-15.3821303727" south="-15.3946592479" east="-54.4734062987" west="-54.4863246417" />
+      <spatial:dtSignalType value="dtiSignalTypeUnknown" definedTypeRepresentation="dtSignalType" />
+      <NameIDPair Name="LIMITE INTERNO" ID="1" passable="true" />
+    </Boundary>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

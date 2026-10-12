@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SetupFile xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns="urn:schemas-johndeere-com:RCD:Setup">
+  <SourceApp major="10" minor="29" build="342294" revision="0" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{6a2fbee7-0e65-4231-bab6-08f10e3133a8}" />
+  <Setup>
+    <FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </FileSchemaVersion>
+    <Participant>
+      <Client lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{6101c0a9-d439-41aa-b45d-6a42374b114a}" name="SILVANDRO BARCHET" />
+    </Participant>
+    <Farm lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{d9d07527-1a12-4caf-be28-802c8ff13aa4}" name="FAZ FERRADURA" clientRef="{6101c0a9-d439-41aa-b45d-6a42374b114a}" />
+    <Field lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{A441BC5F-6EC8-4CC3-85FB-77AA44902B7C}" name="PV-0138L" farmRef="{d9d07527-1a12-4caf-be28-802c8ff13aa4}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{5590C4E3-D07E-4F24-AB13-586FEC300ED7}" name="PV-0238L" farmRef="{d9d07527-1a12-4caf-be28-802c8ff13aa4}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{B26E76A7-081C-4163-A96B-79A3962E1EFF}" name="PV-0338L" farmRef="{d9d07527-1a12-4caf-be28-802c8ff13aa4}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4A3566EE-BF00-442E-B333-2BAF7898D8E9}" name="PV-0438L" farmRef="{d9d07527-1a12-4caf-be28-802c8ff13aa4}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4D77D48B-CD23-40C1-A18E-1CEE5FA78EF4}" name="PV-0538L" farmRef="{d9d07527-1a12-4caf-be28-802c8ff13aa4}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-09-09T00:59:44.878Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{550D3EB1-E354-42E6-9AB2-7FCF2C6EF450}" name="PV-0638L" farmRef="{d9d07527-1a12-4caf-be28-802c8ff13aa4}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+  </Setup>
+</SetupFile>

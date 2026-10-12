@@ -1,0 +1,8 @@
+FortSmart SendTo2020 Export Report
+Status: READY_FOR_DEVICE_TEST
+Verification: ROUNDTRIP_TESTED
+Fields: 1
+- SILVANDRO BARCHET / FAZ FERRADURA / TL - 7-8-9: 865 vertices, 204.64 ha, area diff 0.000000%
+Aviso: TL - 7,8,9: Farm normalizado: 'FAZ. FERRADURA' -> 'FAZ FERRADURA'
+Aviso: TL - 7,8,9: Field normalizado: 'TL - 7,8,9' -> 'TL - 7-8-9'
+Aviso: TL - 7,8,9: Business igual ao do monitor: 'SILVANDRO BARCHETT' -> 'SILVANDRO BARCHET'

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{2cf05952-2bc7-4918-8a61-5921ae444f11}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{8d28a024-8db8-4d42-977f-ee84ef6a75a9}" name="SILVANDRO BARCHET(1)" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{62ab74b2-a0d2-4a1f-b9eb-ed7c1aa4c96a}" name="FAZ FERRADURA" clientRef="{8d28a024-8db8-4d42-977f-ee84ef6a75a9}" />
+    <rcdsetup:Field lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{c64a8d67-372c-45a9-a0af-3256ecd5e251}" name="Pivo 2" farmRef="{62ab74b2-a0d2-4a1f-b9eb-ed7c1aa4c96a}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{c64a8d67-372c-45a9-a0af-3256ecd5e251}">
+    <ABLine lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{411a1440-d9d7-435b-9af5-67b0e22128bd}" name="rolo faca" active="false">
+      <rcdscbase:APoint latitude="-15.38206688" longitude="-54.46229937" />
+      <rcdscbase:BPoint latitude="-15.3810497" longitude="-54.46741697" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{9d5795b4-cd0e-4180-aae4-0720912d8ee7}" name="tiro A B 1 pivo 3" active="false">
+      <rcdscbase:APoint latitude="-15.38203073" longitude="-54.46190732" />
+      <rcdscbase:BPoint latitude="-15.38216266" longitude="-54.45689868" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{747f2589-e506-47e1-9b70-5ca0966b6ad8}" name="Pista de orientaç(1)" active="false">
+      <rcdscbase:APoint latitude="-15.3729269" longitude="-54.45983936" />
+      <rcdscbase:BPoint latitude="-15.37319397" longitude="-54.46177723" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{2c6455e3-2eeb-4e13-abb9-428627bb05a1}" name="Pista de orientaç(2)" active="false">
+      <rcdscbase:APoint latitude="-15.37400504" longitude="-54.45787316" />
+      <rcdscbase:BPoint latitude="-15.37149957" longitude="-54.45385082" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{68861d4c-45ca-49a6-959c-b2f923d35c9e}" name="tiro reto A B pivo 6" active="false">
+      <rcdscbase:APoint latitude="-15.36918188" longitude="-54.44600597" />
+      <rcdscbase:BPoint latitude="-15.37029714" longitude="-54.45247711" />
+    </ABLine>
+    <ABLine lastModified="2026-08-27T00:54:25.180Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{11ade877-09d5-4dbf-91f2-9ddc20927fb2}" name="Pista de orientação" active="false">
+      <rcdscbase:APoint latitude="-15.37610587" longitude="-54.46291835" />
+      <rcdscbase:BPoint latitude="-15.37626029" longitude="-54.46366547" />
+    </ABLine>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

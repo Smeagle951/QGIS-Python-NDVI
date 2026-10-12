@@ -1,0 +1,157 @@
+{
+  "generated": {
+    "field_directories": 1,
+    "boundary_shapes": 1,
+    "curve_tracks": 0,
+    "tags": {
+      "SetupFile": 1,
+      "SourceApp": 4,
+      "Setup": 3,
+      "FileSchemaVersion": 6,
+      "FileSchemaContentVersion": 6,
+      "UnitOfMeasureVersion": 6,
+      "RepresentationSystemVersion": 6,
+      "Synchronization": 1,
+      "NodeVersions": 1,
+      "Node": 1,
+      "EntityDeletions": 1,
+      "Participant": 3,
+      "Client": 3,
+      "Farm": 3,
+      "Field": 3,
+      "Area": 3,
+      "Products": 3,
+      "MachineType": 10,
+      "ImplementTypeRef": 39,
+      "ImplementType": 33,
+      "MachineModel": 1,
+      "ImplementModel": 2,
+      "SpatialCatalog": 3,
+      "SpatialItems": 3,
+      "HeadLand": 1,
+      "vrHeadlandOffset": 1,
+      "Boundary": 1,
+      "MBR": 1,
+      "dtSignalType": 1,
+      "HeadlandLookup": 1,
+      "NameIDPair": 1,
+      "ABLine": 1,
+      "APoint": 1,
+      "BPoint": 1
+    },
+    "invalid_uuids": [],
+    "has_setup": true,
+    "has_host": true,
+    "has_global_ver": true
+  },
+  "golden": {
+    "field_directories": 5,
+    "boundary_shapes": 5,
+    "curve_tracks": 5,
+    "tags": {
+      "SetupFile": 1,
+      "SourceApp": 16,
+      "Setup": 11,
+      "FileSchemaVersion": 26,
+      "FileSchemaContentVersion": 26,
+      "UnitOfMeasureVersion": 26,
+      "RepresentationSystemVersion": 26,
+      "Synchronization": 11,
+      "NodeVersions": 11,
+      "Node": 11,
+      "EntityDeletions": 11,
+      "Participant": 12,
+      "Client": 11,
+      "Operator": 1,
+      "Farm": 11,
+      "Field": 15,
+      "Area": 15,
+      "Products": 11,
+      "MachineType": 10,
+      "ImplementTypeRef": 39,
+      "ImplementType": 33,
+      "Equipment": 1,
+      "Implement": 1,
+      "ImplementDefinition": 1,
+      "ImplementSwathSettings": 1,
+      "LookAheadTimes": 1,
+      "vrLookAheadOnTime": 1,
+      "vrLookAheadOffTime": 1,
+      "dtOperationClass": 1,
+      "Machine": 1,
+      "MachineDefinition": 1,
+      "MachineSettings": 1,
+      "dtHitchType": 1,
+      "Offsets": 1,
+      "vrReceiverOffset": 1,
+      "vrGPSToNonSteeringAxleOffset": 1,
+      "dtNonSteeringAxleLocation": 1,
+      "MachineAutomationSettings": 1,
+      "vrTurnRadius": 1,
+      "MachineModel": 1,
+      "ImplementModel": 2,
+      "SpatialCatalog": 15,
+      "SpatialItems": 15,
+      "CurvedTrackLine": 5,
+      "MBR": 10,
+      "dtSignalType": 10,
+      "vrEastShiftComponent": 5,
+      "vrNorthShiftComponent": 5,
+      "vrReferenceLatitude": 5,
+      "vrReferenceLongitude": 5,
+      "HeadLand": 5,
+      "vrHeadlandOffset": 5,
+      "Boundary": 5,
+      "NameIDPair": 7,
+      "HeadlandLookup": 5
+    },
+    "invalid_uuids": [],
+    "has_setup": true,
+    "has_host": true,
+    "has_global_ver": true
+  },
+  "tag_comparison": {
+    "Client": {
+      "generated": 3,
+      "golden": 11
+    },
+    "Farm": {
+      "generated": 3,
+      "golden": 11
+    },
+    "Field": {
+      "generated": 3,
+      "golden": 15
+    },
+    "Area": {
+      "generated": 3,
+      "golden": 15
+    },
+    "Boundary": {
+      "generated": 1,
+      "golden": 5
+    },
+    "HeadLand": {
+      "generated": 1,
+      "golden": 5
+    },
+    "ABLine": {
+      "generated": 1,
+      "golden": 0
+    },
+    "CurvedTrackLine": {
+      "generated": 0,
+      "golden": 5
+    },
+    "Synchronization": {
+      "generated": 1,
+      "golden": 11
+    },
+    "NodeVersions": {
+      "generated": 1,
+      "golden": 11
+    }
+  },
+  "generated_uuid_valid": true,
+  "structural_markers_present": true
+}

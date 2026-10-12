@@ -1,0 +1,31 @@
+{
+  "profile_id": "john_deere_gs3",
+  "source_path": "E:\\GS3_2630",
+  "export_path": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\output\\roundtrip_gs3\\GS3_2630",
+  "source_fields": 22,
+  "reimport_fields": 22,
+  "source_counts": {
+    "curva_ab": 13,
+    "linha_ab": 30,
+    "bordadura": 3,
+    "trabalho": 1,
+    "limite_interno": 2,
+    "curva_adaptada": 2,
+    "limite": 13
+  },
+  "reimport_counts": {
+    "curva_ab": 13,
+    "linha_ab": 30,
+    "bordadura": 3,
+    "trabalho": 1,
+    "limite_interno": 2,
+    "curva_adaptada": 2,
+    "limite": 13
+  },
+  "missing_fields": [],
+  "extra_fields": [],
+  "kind_deltas": {},
+  "ok": true,
+  "notes": [],
+  "created_at": "2026-08-27T00:54:25Z"
+}

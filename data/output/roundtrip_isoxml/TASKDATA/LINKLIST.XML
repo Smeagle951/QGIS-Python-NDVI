@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ISO11783LinkList VersionMajor="4" VersionMinor="2" ManagementSoftwareManufacturer="FortSmart" ManagementSoftwareVersion="2.1.0" DataTransferOrigin="1">
+  <LGP A="LGP1" B="1" C="" D="FortSmart" E="FortSmartPrecisionAg">
+    <LNK A="CTR0001" B="1b5d3cef-1246-4d4b-b87b-f81fcfa1318e" C="SILVANDRO BARCHET(1)" />
+    <LNK A="FRM0001" B="7b974789-6ac9-4f34-8b9b-3d2e1c410751" C="FAZ FERRADURA" />
+    <LNK A="PFD0001" B="c1c36064-50c5-4075-aa26-bb8459a03fad" C="12" />
+    <LNK A="GGP0001" B="5649c76f-0b9e-4a2b-add7-d8bc340c7ef7" C="Pista de orientação" />
+    <LNK A="GPN0001" B="9943cd65-3d80-483f-98d8-d4288666506f" C="Pista de orientação" />
+    <LNK A="PFD0002" B="3d2f9b20-9dc4-4700-a578-cbe7b2049e8f" C="Pivo 2" />
+    <LNK A="GGP0002" B="b9adb22f-0fe4-47c3-a485-0841ab163304" C="rolo faca" />
+    <LNK A="GPN0002" B="b67b6f10-c2fa-4c2a-ac0f-d7114b29d0e0" C="rolo faca" />
+    <LNK A="GGP0003" B="6b0e5e4b-8424-4257-90cf-3339f54ecb74" C="tiro A B 1 pivo 3" />
+    <LNK A="GPN0003" B="b7c9396d-675e-4194-8c62-8778bd0f5ba8" C="tiro A B 1 pivo 3" />
+    <LNK A="GGP0004" B="9c7ca754-c612-4c56-bd6e-9de45734e248" C="Pista de orientaç(1)" />
+    <LNK A="GPN0004" B="5094512e-dad7-4067-ad34-29104158ee2b" C="Pista de orientaç(1)" />
+    <LNK A="GGP0005" B="3019771f-48be-4e1d-8971-db3b15871493" C="Pista de orientaç(2)" />
+    <LNK A="GPN0005" B="65750492-bc29-48ac-aba6-bf2dd19467b0" C="Pista de orientaç(2)" />
+    <LNK A="GGP0006" B="16c4f74a-c5c2-4b8b-9655-9904ec10bc82" C="tiro reto A B pivo 6" />
+    <LNK A="GPN0006" B="8db3112a-2c27-4410-995a-8e43762422d8" C="tiro reto A B pivo 6" />
+    <LNK A="GGP0007" B="e53f647c-47a1-45c9-9596-bf5c58685026" C="Pista de orientação" />
+    <LNK A="GPN0007" B="8850f233-ca4b-475c-a165-b8472f46f4d4" C="Pista de orientação" />
+    <LNK A="PFD0003" B="af4cfa69-b605-486b-a7e0-9bd31cf3faa0" C="Pivo 3" />
+    <LNK A="GGP0008" B="1665b92e-ef63-46bd-99f0-c94a57e69613" C="dutora pivo 3" />
+    <LNK A="GPN0008" B="bf4298ef-c042-415b-91aa-592a4114cdbf" C="dutora pivo 3" />
+    <LNK A="PFD0004" B="d6205722-ef32-4d5e-b7fb-15e472e27617" C="PV-01" />
+    <LNK A="GGP0009" B="d7d6c75a-e6d1-44e5-b680-2c09e6e2914a" C="BORDADURA" />
+    <LNK A="GPN0009" B="e4fe69b7-2dc3-47a3-946e-dd3efc0f0a89" C="BORDADURA" />
+    <LNK A="GGP0010" B="5b14c729-ac0a-47e1-8018-d77fb6ca4d48" C="PLANTADEIRA 30L" />
+    <LNK A="GPN0010" B="6dc8b8ef-7d98-4f2f-877e-8dbac0098a0e" C="PLANTADEIRA 30L" />
+    <LNK A="PLN0001" B="3419f31c-a20d-4a06-b8c1-68450c2d36d0" C="LIMITE INTERNO" />
+    <LNK A="PFD0005" B="fc763210-0140-4340-8b47-c81de0eacd0e" C="PV-01_30l" />
+    <LNK A="GGP0011" B="583e509a-4440-4f54-aae1-b10d81aa45fd" C="Pista de orientação" />
+    <LNK A="GPN0011" B="e93d4a37-bd98-4c1a-8eab-274c15256f93" C="Pista de orientação" />
+    <LNK A="GGP0012" B="34f83f59-74ff-4ccd-9b40-243d36942f4c" C="Pista de orientaç(6)" />
+    <LNK A="GPN0012" B="094f572f-12e3-470e-b49b-8a2852453772" C="Pista de orientaç(6)" />
+    <LNK A="GGP0013" B="ca261742-d2c2-4e8a-bd02-61dcfb14c457" C="Pista de orientaç(1)" />
+    <LNK A="GPN0013" B="4583ae86-9249-465f-bd10-4476bc2f7a24" C="Pista de orientaç(1)" />
+    <LNK A="GGP0014" B="881b1a38-43e9-4906-9bfc-35d38154c8cc" C="Pista de orientaç(5)" />
+    <LNK A="GPN0014" B="611c6609-51d3-4fd8-bde8-4756954256e5" C="Pista de orientaç(5)" />
+    <LNK A="GGP0015" B="b80cb15b-e4e9-4b3a-97d5-584dd45a896e" C="Pista de orientaç(4)" />
+    <LNK A="GPN0015" B="948464c5-c80e-4f32-b26f-35b4a78878aa" C="Pista de orientaç(4)" />
+    <LNK A="GGP0016" B="9609c4d8-d9ad-4be9-b29a-8cb09be6a48c" C="Pista de orientação" />
+    <LNK A="GPN0016" B="0851b4c6-08e8-4925-8848-f8fd3a2b58b1" C="Pista de orientação" />
+    <LNK A="GGP0017" B="29a59ac9-ba1a-4dd5-a832-0020f3f017ba" C="Pista de orientaç(3)" />
+    <LNK A="GPN0017" B="c295d8d5-5761-42e1-84cc-fce796c4c1c3" C="Pista de orientaç(3)" />
+    <LNK A="GGP0018" B="5bfad5c0-2c39-4859-a7f9-b9caff5ebca1" C="Pista de orientaç(2)" />
+    <LNK A="GPN0018" B="8d8d6658-3153-4189-9848-c958016a2d6b" C="Pista de orientaç(2)" />
+    <LNK A="GGP0019" B="ce85e265-1fb5-4229-bfcc-524d45fce20c" C="BORDADURA" />
+    <LNK A="GPN0019" B="28891159-fc77-481c-a565-a0b2c0eb6ad0" C="BORDADURA" />
+    <LNK A="GGP0020" B="a3955be5-0255-493f-afae-72f8bbd61187" C="SOMENTE PL30L" />
+    <LNK A="GPN0020" B="1959e668-d532-4809-9055-84cba7741fa1" C="SOMENTE PL30L" />
+    <LNK A="GGP0021" B="f0f0a41b-3c3a-49df-bf9b-0791fcb2f99e" C="INTERCALADA" />
+    <LNK A="GPN0021" B="1ed8bd1c-6531-40b9-9599-67a9fc0bfa13" C="INTERCALADA" />
+    <LNK A="PLN0002" B="c2196db3-099e-463a-8e18-fead4ce67faf" C="LIMITE INTERNO" />
+    <LNK A="PFD0006" B="5bd47f12-c9d1-4c27-b500-bbe310d48a83" C="Talhao 16" />
+    <LNK A="GGP0022" B="0fd6a77b-3a66-4ecc-9a59-d324504d101b" C="Pista de orientaç(1)" />
+    <LNK A="GPN0022" B="8abf15a7-0b40-4ce4-aac5-93d3b26addd3" C="Pista de orientaç(1)" />
+    <LNK A="GGP0023" B="ecbc6acb-fe2d-400e-92fc-c052fed42894" C="Pista de orientação" />
+    <LNK A="GPN0023" B="f1a16a47-78d3-4656-85cc-cac76ebac359" C="Pista de orientação" />
+    <LNK A="PFD0007" B="d2b9126a-cafe-47fe-852e-a497c0610b94" C="TH 10" />
+    <LNK A="GGP0024" B="9fe452fa-41d1-4d3f-90c3-0e785492e0a2" C="Pista de orientação" />
+    <LNK A="GPN0024" B="416cf08b-b21a-4dae-8739-ecd8d1a15296" C="Pista de orientação" />
+    <LNK A="PLN0003" B="96b9da9f-6ad2-40d8-afe9-02a0c25e1724" C="Limite" />
+    <LNK A="PFD0008" B="0f2b3924-0bab-43c5-9080-b2aeba90defb" C="TH 11_12" />
+    <LNK A="GGP0025" B="9130acf3-4101-4355-9136-dd162ad1ea0b" C="Pista de orientaç(1)" />
+    <LNK A="GPN0025" B="2773fff6-c1a4-45c3-b94b-1c87a04fabc1" C="Pista de orientaç(1)" />
+    <LNK A="GGP0026" B="db36a365-fb37-4744-9aaf-c32c19956d1b" C="Pista de orientação" />
+    <LNK A="GPN0026" B="1e855ca0-74a1-4dfe-9f63-279d7b13515e" C="Pista de orientação" />
+    <LNK A="GGP0027" B="6ae45ff2-2a66-4bd2-a52f-ae871eac2b57" C="Pista de orientação" />
+    <LNK A="GPN0027" B="69b8fbae-a86d-435e-ab21-184c7c05d730" C="Pista de orientação" />
+    <LNK A="PLN0004" B="e99f7f52-33f6-4af7-9ac0-df79c68a8bed" C="Limite" />
+    <LNK A="PFD0009" B="c446c129-36c1-4c7c-ab11-b047d3226120" C="TH 15" />
+    <LNK A="GGP0028" B="392a1c82-1b6d-4d62-933f-22d234f4a89f" C="Pista de orientação" />
+    <LNK A="GPN0028" B="8c421a6b-2c5f-41ae-a09b-b16a7212b5e4" C="Pista de orientação" />
+    <LNK A="PLN0005" B="043bc9c1-26ac-466b-8721-b58de4c02472" C="Limite" />
+    <LNK A="PFD0010" B="94215b66-4bc0-4328-8546-fc0c6d32be6f" C="Th 16" />
+    <LNK A="GGP0029" B="913cf27c-0569-4a41-bb71-d620ecd83e8e" C="16 b" />
+    <LNK A="GPN0029" B="d2d5616a-8621-4a15-a4a9-3dfc5e47ca05" C="16 b" />
+    <LNK A="PLN0006" B="032366c2-3986-4ba3-9b82-d1a793802990" C="Limite" />
+    <LNK A="PFD0011" B="f1ca21f1-e475-4277-b9f7-b832abd7f3f1" C="Th 19" />
+    <LNK A="GGP0030" B="cfae46a0-b171-4ca3-b691-8c412188980b" C="Pista de orientação" />
+    <LNK A="GPN0030" B="b9c1946c-6dcf-4b18-b6ff-26cf90a1a4bc" C="Pista de orientação" />
+    <LNK A="GGP0031" B="c3bdabaf-d472-41dd-b6f8-aca8787958a1" C="Pista de orientaç(2)" />
+    <LNK A="GPN0031" B="e9d79700-c50f-49d2-986a-d1852bf822ba" C="Pista de orientaç(2)" />
+    <LNK A="GGP0032" B="62c63acc-a609-4c4b-85aa-09233ed4b326" C="Pista de orientaç(1)" />
+    <LNK A="GPN0032" B="d23decc3-2130-4f3d-b58e-98a7c5aa2536" C="Pista de orientaç(1)" />
+    <LNK A="PFD0012" B="9453c40b-1660-41cd-8cea-d063bd483172" C="TH 1B" />
+    <LNK A="GGP0033" B="1f508f8c-6b7b-4ab8-bbe1-6ed06af030b6" C="Pista em curva" />
+    <LNK A="GPN0033" B="bcb99159-4e7e-4182-8dfe-7963f9683ba6" C="Pista em curva" />
+    <LNK A="PLN0007" B="1960846d-1e5b-4ad7-8997-045d513bb73e" C="Limite" />
+    <LNK A="PFD0013" B="1f57f50a-05e9-4d00-9af4-74ccb1e9335d" C="TH 2A" />
+    <LNK A="GGP0034" B="87d20034-9d3b-4cf3-abeb-7015a270b499" C="Pista de orientação" />
+    <LNK A="GPN0034" B="c0304446-8f58-4847-95cb-c697305ebd3c" C="Pista de orientação" />
+    <LNK A="GGP0035" B="32935034-9a28-40e6-b164-9def830eee6e" C="Pista de orientação" />
+    <LNK A="GPN0035" B="d418bba5-f86b-41a1-a532-35248bf4a63c" C="Pista de orientação" />
+    <LNK A="PLN0008" B="a17f25ad-1fa4-49c7-97f4-a2d834a361ac" C="Limite" />
+    <LNK A="PFD0014" B="8cf2fadb-cfb5-4ca6-a1d3-92beb7dbba51" C="TH 2B 2C 2D" />
+    <LNK A="GGP0036" B="36bf7fbe-4bce-4d9d-9225-530eed83d0aa" C="Pista de orientaç(1)" />
+    <LNK A="GPN0036" B="b301790e-0580-437a-8bfc-8ffa92a3136a" C="Pista de orientaç(1)" />
+    <LNK A="GGP0037" B="cdf991db-fe2a-4559-8f37-a973058131d4" C="Pista de orientação" />
+    <LNK A="GPN0037" B="ee826bdf-3323-4295-afae-04b4952d82c4" C="Pista de orientação" />
+    <LNK A="PLN0009" B="db574bca-54b5-4bac-95d9-fe9a8ba247d3" C="Limite" />
+    <LNK A="PFD0015" B="06516375-bb1d-4f42-bcc9-1f59cf11a2e0" C="TH 3A" />
+    <LNK A="GGP0038" B="17907b27-bdba-49a0-af01-a2f72f8c96fe" C="Pista de orientação" />
+    <LNK A="GPN0038" B="84720788-3322-4889-93b5-e5916e622edb" C="Pista de orientação" />
+    <LNK A="GGP0039" B="dc5e666b-f18e-451f-802b-0230d3b0ceae" C="Pista de orientação" />
+    <LNK A="GPN0039" B="2958f1e7-7cc6-4265-b219-6760b39dd004" C="Pista de orientação" />
+    <LNK A="GGP0040" B="c93f4162-cf8f-4a46-83f5-fc43c6f975e0" C="TH 3A-Contorno" />
+    <LNK A="GPN0040" B="b23bf9ea-a472-43c1-a3d6-bc700185c326" C="TH 3A-Contorno" />
+    <LNK A="PLN0010" B="e9a5548b-f860-4501-a946-e13989a59746" C="Limite" />
+    <LNK A="PFD0016" B="5d250a2d-2ad7-4955-9095-250d20a84eb1" C="TH 5B" />
+    <LNK A="GGP0041" B="27d9de50-13b7-48b2-a418-728ceee23401" C="Pista de orientação" />
+    <LNK A="GPN0041" B="4c893a04-49be-4f1a-8036-48fa56abb5dc" C="Pista de orientação" />
+    <LNK A="PLN0011" B="0b60c80e-cb17-4866-bdca-4029dd695c30" C="Limite" />
+    <LNK A="PFD0017" B="d7f20b55-ca68-43f0-89eb-a1dcc237f224" C="TH 6A" />
+    <LNK A="GGP0042" B="cc48ac21-1d85-434e-b1d2-dad5778d32da" C="Pista de orientaç(1)" />
+    <LNK A="GPN0042" B="b7155f66-860b-4ac4-bcb4-0e6d292584d2" C="Pista de orientaç(1)" />
+    <LNK A="GGP0043" B="80b8d7c3-042f-463e-95a1-2b848e6a7e9e" C="Pista de orientação" />
+    <LNK A="GPN0043" B="c4749e34-74cc-4b72-aa6c-e6e1777c8cad" C="Pista de orientação" />
+    <LNK A="PLN0012" B="db930aa6-282a-4f5b-83bf-38aa66b2534e" C="Limite" />
+    <LNK A="PFD0018" B="dbc8f682-0dc1-4ae0-9bcc-6fb54742f709" C="TH 7_8" />
+    <LNK A="GGP0044" B="73f7f410-24e0-471c-a1ca-4cd62c03b87d" C="Pista de orientação" />
+    <LNK A="GPN0044" B="ca33d41a-c465-4071-8233-ad69ac851d0f" C="Pista de orientação" />
+    <LNK A="PLN0013" B="113e1c95-0f0e-4fc9-9787-a83714686d77" C="Limite" />
+    <LNK A="PFD0019" B="946bc392-ae5b-42f3-8ba1-b414864d7bd4" C="TH 7B" />
+    <LNK A="GGP0045" B="bcfb979b-843d-4d87-bc86-8b7f3e7c2adb" C="Pista de orientação" />
+    <LNK A="GPN0045" B="f7088298-b331-4350-af4d-2a6c9fbc26f5" C="Pista de orientação" />
+    <LNK A="PLN0014" B="a09900f1-fa03-46b6-a5f0-bc793492056d" C="Limite" />
+    <LNK A="PFD0020" B="3ef060b4-d861-44d7-9913-3e2fdb4969cc" C="Th 9" />
+    <LNK A="GGP0046" B="f63a90f0-8d05-4b31-bb2d-e97a96c5fb8a" C="Th 9" />
+    <LNK A="GPN0046" B="659694fe-b3f1-4e71-88c4-e5c1ec0bb76c" C="Th 9" />
+    <LNK A="PLN0015" B="5e6f7bac-4012-4333-bf35-ea8a12f35fcc" C="Limite" />
+    <LNK A="PFD0021" B="5b0ad298-24bb-40ad-b5f2-e7bd483f02ec" C="TH_6C" />
+    <LNK A="GGP0047" B="3d143949-5f15-48bf-bf73-1b26126b48b4" C="Pista de orientação" />
+    <LNK A="GPN0047" B="ad43e3e1-951d-4344-a761-66d01c87b7ec" C="Pista de orientação" />
+    <LNK A="PFD0022" B="49462fbf-e125-4baa-a9d7-abfa1f14cb92" C="Thalhao 13" />
+    <LNK A="GGP0048" B="992093a6-a0cc-4258-afee-b0f5a2111f94" C="B 13" />
+    <LNK A="GPN0048" B="b7b9d014-0c7b-4dc1-a3a2-c8e7f206fb03" C="B 13" />
+    <LNK A="GGP0049" B="c1d05305-bdcf-42cb-8349-b282fb3038eb" C="Pista de orientação" />
+    <LNK A="GPN0049" B="1222c3ea-4e38-4f61-9259-cad222af4503" C="Pista de orientação" />
+  </LGP>
+</ISO11783LinkList>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{55df0762-a880-4356-8187-ccbffe53ead6}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-08-27T00:01:08.856Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{28fbaacf-a852-4202-bf54-37837cdbf942}" name="SILVANDRO BARCHET(1)" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-08-27T00:01:08.856Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{27a4023c-000d-4ac9-b188-551d5aefe977}" name="FAZ FERRADURA" clientRef="{28fbaacf-a852-4202-bf54-37837cdbf942}" />
+    <rcdsetup:Field lastModified="2026-08-27T00:01:08.856Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{e27db85d-6d71-4a7d-bb2a-6631c8e3d745}" name="TH 2B 2C 2D" farmRef="{27a4023c-000d-4ac9-b188-551d5aefe977}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{e27db85d-6d71-4a7d-bb2a-6631c8e3d745}">
+    <ABCurve lastModified="2026-08-27T00:01:08.849Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{937efc51-0bfd-493e-9a0f-41ec182a85d8}" spatialGeometryType="point" fileName="ABCurve937efc51-0bfd-493e-9a0f-41ec182a85d8" name="Pista de orientaç(1)" numberOfSegments="343">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="0.08203129454615224" south="-0.0361328125" east="3.3125014258108902" west="-0.004702162642573171" />
+      <rcdscbase:APoint>
+        <spatial:vrLatitude value="0.0005970073709349322" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+        <spatial:vrLongitude value="0.0005932464057138986" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+      </rcdscbase:APoint>
+      <rcdscbase:BPoint>
+        <spatial:vrLatitude value="-4.12115576291514e-176" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+        <spatial:vrLongitude value="-0.001777981330727485" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+      </rcdscbase:BPoint>
+    </ABCurve>
+    <ABCurve lastModified="2026-08-27T00:01:08.851Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ae9966c1-c488-4a83-b5d3-9e886dd4077a}" spatialGeometryType="point" fileName="ABCurveae9966c1-c488-4a83-b5d3-9e886dd4077a" name="Pista de orientação" numberOfSegments="1840">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="6.781250946223736" south="-0.033569343316201476" east="43.0" west="-4.34375" />
+      <rcdscbase:APoint>
+        <spatial:vrLatitude value="4.810820479406175e-05" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+        <spatial:vrLongitude value="-0.0008542037831631433" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+      </rcdscbase:APoint>
+      <rcdscbase:BPoint>
+        <spatial:vrLatitude value="-2.9340415493203023e-159" sourceUOM="arcdeg" variableRepresentation="vrLatitude" />
+        <spatial:vrLongitude value="-0.00017888037933921908" sourceUOM="arcdeg" variableRepresentation="vrLongitude" />
+      </rcdscbase:BPoint>
+    </ABCurve>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

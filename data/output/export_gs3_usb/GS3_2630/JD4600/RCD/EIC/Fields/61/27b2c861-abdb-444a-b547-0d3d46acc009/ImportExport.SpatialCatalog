@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rcdscfldie:SpatialCatalog xmlns:rcdsetup="urn:schemas-johndeere-com:RCD:Setup" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns:rcdscbase="urn:schemas-johndeere-com:RCD:SpatialCatalog:Base" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:rcdscfldie="urn:schemas-johndeere-com:RCD:SpatialCatalog:FieldImportExport">
+  <FileSchemaVersion nonProductionCode="0">
+    <bt:FileSchemaContentVersion major="1" minor="11" />
+    <bt:UnitOfMeasureVersion major="1" minor="43" />
+    <bt:RepresentationSystemVersion major="4" minor="161" />
+  </FileSchemaVersion>
+  <SourceApp major="2" minor="0" build="0" revision="135" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{6eeca551-6198-4304-be7b-07c1f2f7752d}" />
+  <Setup>
+    <rcdsetup:FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </rcdsetup:FileSchemaVersion>
+    <rcdsetup:Participant>
+      <rcdsetup:Client lastModified="2026-08-22T13:10:34.271Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{9ffb2a51-291a-4137-803e-9090a2b5a983}" name="Silvandro Barchet (J" />
+    </rcdsetup:Participant>
+    <rcdsetup:Farm lastModified="2026-08-22T13:10:34.271Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{052f9bb8-6b98-4b99-9d53-a917ee308061}" name="Faz. Ferradura" clientRef="{9ffb2a51-291a-4137-803e-9090a2b5a983}" />
+    <rcdsetup:Field lastModified="2026-08-22T13:10:34.271Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{27b2c861-abdb-444a-b547-0d3d46acc009}" name="TH-14" farmRef="{052f9bb8-6b98-4b99-9d53-a917ee308061}">
+      <rcdsetup:Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </rcdsetup:Field>
+    <rcdsetup:Products />
+  </Setup>
+  <SpatialItems eridFieldRef="{27b2c861-abdb-444a-b547-0d3d46acc009}">
+    <Boundary lastModified="2026-08-22T13:10:34.271Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ed885f02-1cc0-4ca7-a600-32661d096c61}" spatialGeometryType="polygon" fileName="Boundaryed885f02-1cc0-4ca7-a600-32661d096c61">
+      <spatial:MBR uomSource="arcdeg" uomTarget="arcdeg" north="1.593007922e-314" south="-15.3355674064" east="6.824009243607404e-12" west="-54.4372272886" />
+      <spatial:dtSignalType value="dtiSignalTypeUnknown" definedTypeRepresentation="dtSignalType" />
+    </Boundary>
+  </SpatialItems>
+</rcdscfldie:SpatialCatalog>

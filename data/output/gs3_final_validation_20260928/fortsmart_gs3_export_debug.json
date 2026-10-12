@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "detected": {
+    "FIELD": 1,
+    "EXTERNAL_BOUNDARY": 1,
+    "INTERNAL_BOUNDARY": 1,
+    "HEADLAND": 1,
+    "AB_LINE": 1,
+    "AB_CURVE": 0,
+    "GUIDANCE_TRACK": 0
+  },
+  "included": {
+    "FIELD": 1,
+    "EXTERNAL_BOUNDARY": 1,
+    "INTERNAL_BOUNDARY": 1,
+    "HEADLAND": 1,
+    "AB_LINE": 1,
+    "AB_CURVE": 0,
+    "GUIDANCE_TRACK": 0
+  },
+  "serialized": {
+    "setup_fds_generated": true,
+    "field_folders_generated": 1,
+    "boundary_files_generated": 1,
+    "headland_items_generated": 1,
+    "internal_boundary_associations": 1,
+    "guidance_files_generated": 1
+  },
+  "fields": [
+    {
+      "name": "TL-12",
+      "field_erid": "e5146132-fc03-4aac-b6f0-ee7e17b98c2f",
+      "detected": {
+        "EXTERNAL_BOUNDARY": 1,
+        "INTERNAL_BOUNDARY": 1,
+        "HEADLAND": 1,
+        "AB_LINE": 1
+      },
+      "included": {
+        "EXTERNAL_BOUNDARY": 1,
+        "INTERNAL_BOUNDARY": 1,
+        "HEADLAND": 1,
+        "AB_LINE": 1
+      },
+      "has_external_boundary": true,
+      "area_ha": 120.5141191005542,
+      "boundaries": [
+        {
+          "name": "Limite",
+          "original_vertices": 5,
+          "export_vertices": 5,
+          "original_area_ha": 120.5141191005542,
+          "export_area_ha": 120.5141191005542,
+          "area_difference_percent": 0.0,
+          "tolerance_m": 0.0,
+          "metric_crs": "EPSG:32721",
+          "field_area_source": "external_boundary_metric"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "preflight": {
+    "status": "READY_FOR_DEVICE_TEST",
+    "setup_valid": true,
+    "fields": 1,
+    "boundaries": [
+      {
+        "file": "Boundarye0a48777-f4f3-5872-96e6-61acf324e365.fdShape",
+        "vertices": 5,
+        "fddata_bytes": 226
+      }
+    ],
+    "internal_boundary_associations": 1,
+    "uuid_count": 52,
+    "references_checked": 49,
+    "errors": []
+  },
+  "roundtrip": {
+    "field_count": 1,
+    "catalog_count": 3
+  },
+  "verification_state": "ROUNDTRIP_TESTED"
+}

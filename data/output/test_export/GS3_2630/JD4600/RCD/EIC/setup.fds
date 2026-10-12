@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SetupFile xmlns:spatial="urn:schemas-johndeere-com:SpatialTypes" xmlns:unit="urn:schemas-johndeere-com:UnitSystem" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rep="urn:schemas-johndeere-com:Representation" xmlns:bt="urn:schemas-johndeere-com:BasicTypes" xmlns="urn:schemas-johndeere-com:RCD:Setup">
+  <SourceApp major="10" minor="29" build="342294" revision="0" nameSourceApp="FortSmart GS3 Export" uuidSourceApp="{b050528e-f328-4dd8-9e9c-71fe8153692e}" uuidSourceAppNode="{c4598e47-8d1d-4caf-90c6-f6cfedf0e94f}" uuidSession="{a60b10c3-b6ef-4305-87bb-58d5c1b0a67d}" />
+  <Setup>
+    <FileSchemaVersion nonProductionCode="0">
+      <bt:FileSchemaContentVersion major="3" minor="28" />
+      <bt:UnitOfMeasureVersion major="1" minor="43" />
+      <bt:RepresentationSystemVersion major="4" minor="161" />
+    </FileSchemaVersion>
+    <Participant>
+      <Client lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{39f32d41-a516-4c85-a8e2-1a874919ec7e}" name="SILVANDRO BARCHET" />
+    </Participant>
+    <Farm lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}" name="FAZ FERRADURA" clientRef="{39f32d41-a516-4c85-a8e2-1a874919ec7e}" />
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{9c8dfaa0-c9cf-4c90-832b-67b6697850de}" name="T 10C" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{25058bbd-4b1b-4a64-9bea-1b65c52e16f2}" name="T 16." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{3f2db342-8982-4334-a036-d03c1488d2b5}" name="TH-11--12" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{fab9af81-a2f6-43ad-87ce-317d7c61dcca}" name="nada" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{3bc9d562-3c90-47b0-874b-a0fad74707e8}" name="TH-01Bambu" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{2cb2e0ed-a99d-4b4e-bc71-3e4e3ee270dd}" name="T 07" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{0f6beea1-bede-401a-9467-ebc44bb4c2dc}" name="Calcinha 2B-2C-3D" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ddc1f064-9a0d-4f0c-9576-0e8f73735fc8}" name="PIVO 3." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{0c9ddf18-77c9-42d3-b222-1169425ed666}" name="PIVO 4." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f8025a17-3ba6-48c1-9a87-efc6fd1f3ce2}" name="PV-06_40l" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4e322b7f-f9cd-4785-a80f-3b2b0bb84c96}" name="TH--13" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4ad4f722-e653-4c34-8e8f-3336b7b62df3}" name="T 3C" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{9d0bd7db-0da7-40e2-ba5f-9f4edb3fab87}" name="T 12." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{16b50bc4-696e-443e-b452-bcdc2d59da42}" name="T 19" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{6b21f2e8-119b-4c5e-9209-f5375e6995b8}" name="T 11." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{b2907097-3f05-4543-a4a7-a9a4df69e293}" name="TH-07 Dreno" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{148944fa-f839-4ea5-b1da-ca29815f4ecb}" name="T 14." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{d0080740-ff16-486a-a4f1-4452b13d78a8}" name="TH-3B entre Pv 3-4" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{b0b19194-eabc-4df3-b4c6-23fca4686f1f}" name="T 10A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{0a1d9f87-0edd-4e6b-9b7b-3083927860ad}" name="T 10B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{27b2c861-abdb-444a-b547-0d3d46acc009}" name="TH-14" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{182ab03d-b75b-4612-84cd-27e58a28b278}" name="T 17B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{fc39e914-a326-466a-90a5-29f6a2c4abd0}" name="PIVO 1." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{910ac119-abb5-48f6-b667-bddc9c730747}" name="PIVO 2." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{16039628-02b8-45cd-95f2-95362b982352}" name="TH-3A encima pista" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{d2ef9419-50dc-4843-9675-be9a48ab8e48}" name="PV-03" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{9af2407a-7a05-4887-8b1a-22fd63a9f303}" name="TH-05A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f083f754-7213-452d-b57a-82d9af2093ca}" name="TH-10" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{b3025e2b-24ce-47e9-922f-26acd89f12cd}" name="PV-01_40l" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{380ac656-32f8-44db-8d22-458cbcd3d201}" name="T 5C" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{37f16384-6c6d-4dbc-a2ad-65d9f7aeef0e}" name="16 B milho" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{49f28a09-6764-409f-98b7-65af5c8b4ec5}" name="T 9" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ccbce32e-8fcc-4750-91a0-2278797094c9}" name="Angar" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{22cb2037-252b-4028-85f5-fb4ed0b95d5f}" name="17e20 milho" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f26c30a7-cb51-4c8e-9ccc-caa47d729fba}" name="T 17 A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{6d7def7c-e1ec-4626-b234-215758a4a61a}" name="T 14C." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{a8ffc6d1-6e07-4ae1-a455-2c037a4bea6b}" name="TH-5C--TH-6B cx dag" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{2cca3cc1-7da6-4926-b776-052ac1c0b6db}" name="TH-05 B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{803086fb-ea8d-41db-bc82-67e17d8aa397}" name="T 1A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{eb1e676d-08d5-4c50-a7b6-4f42451c8670}" name="T 18" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{2b36d75d-72af-46a6-a38a-e4cae4fadbe1}" name="T 15" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{581b2110-0a43-48b0-b00c-68f110cd94f3}" name="PV-06" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{fd4a3ef5-bef2-4618-9bdb-165904fdcf01}" name="Th-7-8-9" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{eb0710d3-6e32-4b30-8169-5a6e5f174043}" name="PV-04_40l" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{9a953a5d-b70a-4e72-b430-377d9fb5a1ef}" name="Th 8e9" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{7cbd8ed6-a66b-4bfc-ac17-db80a86375af}" name="T 6B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{29b7a43e-b9b0-4a9a-a0eb-8eb159406813}" name="T 2D" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{3f8b790f-c252-45c6-bcc5-8a05bff2ec6c}" name="T 1B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{a9b2682b-2d10-4126-8b0a-e19f168d83c3}" name="TH-01 A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f621adbc-8c4c-44d7-aae4-b37184fc0da6}" name="PV-02_40l" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{f85d1b7b-5b38-499e-9a3e-6f81479cce9e}" name="T 13." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{dc759b70-98c6-4f71-880c-21283b7c6e69}" name="PIVO 6." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{0edbb453-2745-4342-951d-f41f4da61000}" name="Pivo-01" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{7847cd22-8179-42bd-b9cd-837df96099dd}" name="T 6A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{d3c5f57f-1e0a-4340-b459-4e9aeeb97ff6}" name="TH-represa" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ef36814c-d81d-48ea-a5d1-9e7edb1345fc}" name="T 2C" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{41ba249d-0d4f-4f5c-8ebd-c2f2c17f6ec5}" name="T 5B." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4bd0760f-4ee7-4ab9-8ed0-14af4a3c46f2}" name="PV-02" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{8b5d1ac1-f012-4436-8df6-d4f0b5e9f1ac}" name="TH-17" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{952b1b13-d297-4895-9238-5e59f35a9b52}" name="Calcinha Pivo 04" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{b9ac6bd6-9943-417f-819f-83edbfc4ab4f}" name="TH Das Palmeiras" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{c3a9cd9d-99ac-4aeb-82bc-f3ce8f4d01f0}" name="PIVO 5." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{ef9131c8-6570-48ee-915b-d8e820a33062}" name="T 5A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{e37fbc36-eade-47a2-99d5-9a610587eb69}" name="TH-17 soja" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{b7a980bc-44c8-4f94-b77d-15e6402c75a1}" name="T6b" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{a2489ef2-7d5a-42a1-b3d6-cfb4bf7955d5}" name="TH-5B divisa adriano" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{aec701e5-1524-4a39-9b3d-9a5dc697a9f9}" name="TH-5 A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{e45728ff-9ea1-4f4f-88f1-23fa8f0bf764}" name="PV-05_40l" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{dfa7e35e-cd04-4a9b-8e32-3093a98339e5}" name="TH-15" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{eaacc836-cccb-4253-8021-ca015dc0d101}" name="TH-06 A Placa" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{d4701a44-58c7-4d7c-8812-63966c881fe3}" name="T 3A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{928991bb-6f22-4d3f-a75e-275aa574f1c3}" name="Pivo -04" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{55b816d9-8703-4c2b-a6bf-fb95bcbb885f}" name="T2a" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{edd46655-4fae-4ea1-bf52-76b316a75e10}" name="TH-18" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{3786c79d-4da6-4f27-b729-e35925391c72}" name="TH-19" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{fb03adaf-a74b-4eb4-87c5-67324cc3cd4c}" name="T 3B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{4881952e-d027-433f-a011-fa287c37a211}" name="Pivo vizinho" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{59be3ba1-a02a-437f-b313-44fda3b60034}" name="TH-20" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{972c66ee-be57-41e0-a46a-01e15f2d5ba7}" name="T 2B" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{641e9afe-3889-4f84-997a-474d5d43b1c7}" name="PV-03_40l" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{d5f4fee9-5af2-4c64-9212-4d15eccfa4a6}" name="T 10B." farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{2644e430-d5b9-47f7-90ca-c10a2421cdef}" name="PV-05" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{6c90bbe3-3246-4840-b519-8603edbc2208}" name="TH-16" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{145e02a4-dcc7-4a3a-9d5a-755e66b2764d}" name="PV-01" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{fda7d2ff-344d-4d38-8cf7-00920f090f00}" name="T 2A" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+    <Field lastModified="2026-08-22T13:10:20.002Z" sourceNode="{00000000-0000-0000-0000-000000000000}" erid="{172aaf25-9ae2-426f-bed1-10db2f7257e4}" name="T 7-8" farmRef="{3d24bbd1-0282-ad65-354c-c2ebce551dc1}">
+      <Area value="0" sourceUOM="ac" variableRepresentation="vrReportedFieldArea" />
+    </Field>
+  </Setup>
+</SetupFile>

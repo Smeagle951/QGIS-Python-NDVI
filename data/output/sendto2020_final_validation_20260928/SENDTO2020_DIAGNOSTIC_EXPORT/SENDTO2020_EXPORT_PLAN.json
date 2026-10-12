@@ -1,0 +1,26 @@
+{
+  "format": "SendTo2020",
+  "target": "Precision Planting 20|20",
+  "generated_at": "2026-09-28T19:47:47.474357-04:00",
+  "rule": "EXTERNAL_BOUNDARY_ONLY",
+  "fields": [
+    {
+      "field_erid": "sendto2020-validation-field",
+      "business": "VALIDACAO FORTSMART",
+      "farm": "FAZENDA TESTE",
+      "field": "TL-12",
+      "detected": {
+        "EXTERNAL_BOUNDARY": 1
+      },
+      "included": {
+        "EXTERNAL_BOUNDARY": 1
+      },
+      "skipped": {}
+    }
+  ],
+  "totals": {
+    "fields": 1,
+    "external_boundaries_included": 1,
+    "skipped_by_role": {}
+  }
+}

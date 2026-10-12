@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SetupFile xmlns="urn:schemas-johndeere-com:Setup">
+  <SourceApp minor="0" major="2" build="1" revision="0" nameSourceApp="FortSmart Precision Ag" SourceAppClientId="fortsmart-precision-ag" />
+  <FileSchemaVersion nonProductionCode="0">
+    <FileSchemaContentVersion major="2" minor="54" />
+    <UnitOfMeasureVersion major="1" minor="12" />
+    <RepresentationSystemVersion major="3" minor="25" />
+  </FileSchemaVersion>
+  <Setup>
+    <Client CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="04a06a37-6f72-4241-8afc-e9ce3515cbeb" Name="SILVANDRO BARCHET" />
+    <Farm CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="354be042-70fc-43b0-96ef-1100872854ae" Name="FAZ FERRADURA" Client="04a06a37-6f72-4241-8afc-e9ce3515cbeb" />
+    <Field CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="A441BC5F-6EC8-4CC3-85FB-77AA44902B7C" Name="PV-0138L">
+      <Farm>354be042-70fc-43b0-96ef-1100872854ae</Farm>
+    </Field>
+    <Field CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="5590C4E3-D07E-4F24-AB13-586FEC300ED7" Name="PV-0238L">
+      <Farm>354be042-70fc-43b0-96ef-1100872854ae</Farm>
+    </Field>
+    <Field CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="B26E76A7-081C-4163-A96B-79A3962E1EFF" Name="PV-0338L">
+      <Farm>354be042-70fc-43b0-96ef-1100872854ae</Farm>
+    </Field>
+    <Field CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="4A3566EE-BF00-442E-B333-2BAF7898D8E9" Name="PV-0438L">
+      <Farm>354be042-70fc-43b0-96ef-1100872854ae</Farm>
+    </Field>
+    <Field CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="4D77D48B-CD23-40C1-A18E-1CEE5FA78EF4" Name="PV-0538L">
+      <Farm>354be042-70fc-43b0-96ef-1100872854ae</Farm>
+    </Field>
+    <Field CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="550D3EB1-E354-42E6-9AB2-7FCF2C6EF450" Name="PV-0638L">
+      <Farm>354be042-70fc-43b0-96ef-1100872854ae</Farm>
+    </Field>
+    <AdaptiveCurve Archived="false" StringGuid="bd237617-5053-4174-b62e-ed847f3ba5dc" Name="CURVA" TaggedEntity="A441BC5F-6EC8-4CC3-85FB-77AA44902B7C">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeUnknown" />
+      <Geometry>
+        <FilenameWithExtension>AdaptiveCurvebd237617-5053-4174-b62e-ed847f3ba5dc.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+      <SpatialProjection>
+        <ProjectionType Representation="dtProjectionType" Value="dtiProjectionDeere" />
+      </SpatialProjection>
+      <ElevationReferencePoint Representation="vrElevation" Value="0" SourceUnit="m" />
+      <ReferenceLatitude Representation="vrLatitude" Value="-15.384884515974251" SourceUnit="arcdeg" />
+      <ReferenceLongitude Representation="vrLongitude" Value="-54.474587178569294" SourceUnit="arcdeg" />
+    </AdaptiveCurve>
+    <AdaptiveCurve Archived="false" StringGuid="a5bdfe88-0052-422a-823a-a108e1314427" Name="CURVA" TaggedEntity="5590C4E3-D07E-4F24-AB13-586FEC300ED7">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeUnknown" />
+      <Geometry>
+        <FilenameWithExtension>AdaptiveCurvea5bdfe88-0052-422a-823a-a108e1314427.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+      <SpatialProjection>
+        <ProjectionType Representation="dtProjectionType" Value="dtiProjectionDeere" />
+      </SpatialProjection>
+      <ElevationReferencePoint Representation="vrElevation" Value="0" SourceUnit="m" />
+      <ReferenceLatitude Representation="vrLatitude" Value="-15.382918165442074" SourceUnit="arcdeg" />
+      <ReferenceLongitude Representation="vrLongitude" Value="-54.46272616113323" SourceUnit="arcdeg" />
+    </AdaptiveCurve>
+    <AdaptiveCurve Archived="false" StringGuid="8cd24867-1b90-4764-93c4-b52cfe590b43" Name="CURVA" TaggedEntity="B26E76A7-081C-4163-A96B-79A3962E1EFF">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeUnknown" />
+      <Geometry>
+        <FilenameWithExtension>AdaptiveCurve8cd24867-1b90-4764-93c4-b52cfe590b43.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+      <SpatialProjection>
+        <ProjectionType Representation="dtProjectionType" Value="dtiProjectionDeere" />
+      </SpatialProjection>
+      <ElevationReferencePoint Representation="vrElevation" Value="0" SourceUnit="m" />
+      <ReferenceLatitude Representation="vrLatitude" Value="-15.38218036634484" SourceUnit="arcdeg" />
+      <ReferenceLongitude Representation="vrLongitude" Value="-54.46203483491177" SourceUnit="arcdeg" />
+    </AdaptiveCurve>
+    <AdaptiveCurve Archived="false" StringGuid="4148f462-c7c6-450d-baf0-dbeb2426c1cf" Name="CURVA" TaggedEntity="4A3566EE-BF00-442E-B333-2BAF7898D8E9">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeUnknown" />
+      <Geometry>
+        <FilenameWithExtension>AdaptiveCurve4148f462-c7c6-450d-baf0-dbeb2426c1cf.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+      <SpatialProjection>
+        <ProjectionType Representation="dtProjectionType" Value="dtiProjectionDeere" />
+      </SpatialProjection>
+      <ElevationReferencePoint Representation="vrElevation" Value="0" SourceUnit="m" />
+      <ReferenceLatitude Representation="vrLatitude" Value="-15.39088773604824" SourceUnit="arcdeg" />
+      <ReferenceLongitude Representation="vrLongitude" Value="-54.46606767275472" SourceUnit="arcdeg" />
+    </AdaptiveCurve>
+    <AdaptiveCurve Archived="false" StringGuid="9b091318-6746-4672-bc0b-1944681f7c1a" Name="CURVA" TaggedEntity="4D77D48B-CD23-40C1-A18E-1CEE5FA78EF4">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeUnknown" />
+      <Geometry>
+        <FilenameWithExtension>AdaptiveCurve9b091318-6746-4672-bc0b-1944681f7c1a.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+      <SpatialProjection>
+        <ProjectionType Representation="dtProjectionType" Value="dtiProjectionDeere" />
+      </SpatialProjection>
+      <ElevationReferencePoint Representation="vrElevation" Value="0" SourceUnit="m" />
+      <ReferenceLatitude Representation="vrLatitude" Value="-15.370205237459786" SourceUnit="arcdeg" />
+      <ReferenceLongitude Representation="vrLongitude" Value="-54.472672805013666" SourceUnit="arcdeg" />
+    </AdaptiveCurve>
+    <AdaptiveCurve Archived="false" StringGuid="39106361-69ec-42ce-9491-564d5921cef5" Name="CURVA" TaggedEntity="550D3EB1-E354-42E6-9AB2-7FCF2C6EF450">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeUnknown" />
+      <Geometry>
+        <FilenameWithExtension>AdaptiveCurve39106361-69ec-42ce-9491-564d5921cef5.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+      <SpatialProjection>
+        <ProjectionType Representation="dtProjectionType" Value="dtiProjectionDeere" />
+      </SpatialProjection>
+      <ElevationReferencePoint Representation="vrElevation" Value="0" SourceUnit="m" />
+      <ReferenceLatitude Representation="vrLatitude" Value="-15.370434246239274" SourceUnit="arcdeg" />
+      <ReferenceLongitude Representation="vrLongitude" Value="-54.45902736416266" SourceUnit="arcdeg" />
+    </AdaptiveCurve>
+    <OperationalBoundary CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="c0e891e8-ff25-41e1-acd6-5c331a0fe5ae" Name="LIMITE EXTERNO" TaggedEntity="A441BC5F-6EC8-4CC3-85FB-77AA44902B7C">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeRTK" />
+      <Geometry>
+        <FilenameWithExtension>Boundaryc0e891e8-ff25-41e1-acd6-5c331a0fe5ae.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+    </OperationalBoundary>
+    <OperationalBoundary CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="4f14df48-8d2b-4274-bfad-4cdff3f3f5af" Name="LIMITE EXTERNO" TaggedEntity="5590C4E3-D07E-4F24-AB13-586FEC300ED7">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeRTK" />
+      <Geometry>
+        <FilenameWithExtension>Boundary4f14df48-8d2b-4274-bfad-4cdff3f3f5af.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+    </OperationalBoundary>
+    <OperationalBoundary CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="10b22779-db7e-4433-87c5-3b86cee50bb8" Name="LIMITE EXTERNO" TaggedEntity="B26E76A7-081C-4163-A96B-79A3962E1EFF">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeRTK" />
+      <Geometry>
+        <FilenameWithExtension>Boundary10b22779-db7e-4433-87c5-3b86cee50bb8.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+    </OperationalBoundary>
+    <OperationalBoundary CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="9aee438a-a8d1-474b-afce-b4e121adad06" Name="LIMITE EXTERNO" TaggedEntity="4A3566EE-BF00-442E-B333-2BAF7898D8E9">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeRTK" />
+      <Geometry>
+        <FilenameWithExtension>Boundary9aee438a-a8d1-474b-afce-b4e121adad06.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+    </OperationalBoundary>
+    <OperationalBoundary CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="ad81a938-a582-40db-a20e-73fbc4952d70" Name="LIMITE EXTERNO" TaggedEntity="4D77D48B-CD23-40C1-A18E-1CEE5FA78EF4">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeRTK" />
+      <Geometry>
+        <FilenameWithExtension>Boundaryad81a938-a582-40db-a20e-73fbc4952d70.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+    </OperationalBoundary>
+    <OperationalBoundary CreationDate="2026-09-09T00:59:44.795Z" SourceNode="b8aea850-650f-458b-9d65-d302165e4d72" LastModifiedDate="2026-09-09T00:59:44.795Z" Archived="false" StringGuid="07c8d508-c814-45dc-b591-44398badba9a" Name="LIMITE EXTERNO" TaggedEntity="550D3EB1-E354-42E6-9AB2-7FCF2C6EF450">
+      <SignalType Representation="dtSignalType" Value="dtiSignalTypeRTK" />
+      <Geometry>
+        <FilenameWithExtension>Boundary07c8d508-c814-45dc-b591-44398badba9a.gjson</FilenameWithExtension>
+        <Path>./SpatialFiles/</Path>
+      </Geometry>
+    </OperationalBoundary>
+  </Setup>
+</SetupFile>

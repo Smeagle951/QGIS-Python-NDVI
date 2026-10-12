@@ -1,0 +1,261 @@
+{
+  "generated": {
+    "root": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\output\\sendto2020_final_validation_20260928\\SendTo2020",
+    "field_count": 1,
+    "fields": [
+      {
+        "name": "TL-12",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 1026,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      }
+    ]
+  },
+  "reference": {
+    "root": "C:\\Users\\fortu\\Desktop\\QGIS_Python_NDVI\\data\\temp\\monitor_zip_analysis_20260926\\SendTo2020_1\\SendTo2020",
+    "field_count": 6,
+    "fields": [
+      {
+        "name": "PV-01",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 232,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      },
+      {
+        "name": "PV-02",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 314,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      },
+      {
+        "name": "PV-03",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 510,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      },
+      {
+        "name": "PV-04",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 1657,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      },
+      {
+        "name": "PV-05",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 211,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      },
+      {
+        "name": "PV-06",
+        "files": [
+          ".shp",
+          ".shx",
+          ".dbf",
+          ".prj",
+          ".cpg",
+          ".mcd"
+        ],
+        "feature_count": 1,
+        "geometry_types": [
+          "Polygon"
+        ],
+        "schema": [
+          "Business",
+          "Farm",
+          "Field",
+          "CODE"
+        ],
+        "crs_epsg": 4326,
+        "vertex_count": 303,
+        "mcd_present": true,
+        "mcd_columns": [
+          "Business",
+          "Farm",
+          "Field"
+        ]
+      }
+    ]
+  },
+  "structural_requirements": {
+    "files": [
+      ".shp",
+      ".shx",
+      ".dbf",
+      ".prj",
+      ".cpg",
+      ".mcd"
+    ],
+    "feature_count": 1,
+    "geometry_types": [
+      "Polygon"
+    ],
+    "schema": [
+      "Business",
+      "Farm",
+      "Field",
+      "CODE"
+    ],
+    "crs_epsg": 4326,
+    "mcd_present": true,
+    "mcd_columns": [
+      "Business",
+      "Farm",
+      "Field"
+    ]
+  },
+  "deviations": [],
+  "compatible_structure": true,
+  "vertex_count": {
+    "generated": [
+      1026
+    ],
+    "reference_min": 211,
+    "reference_max": 1657
+  },
+  "stress_test": {
+    "input_vertices": 461569,
+    "canonical_geometry_unchanged": true,
+    "export_vertices": 1026,
+    "area_difference_percent": 0.00023898458715514522,
+    "status": "READY_FOR_DEVICE_TEST",
+    "verification_state": "ROUNDTRIP_TESTED"
+  }
+}
